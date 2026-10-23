@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-009",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/poster",
+      "sourceId": "day-009-001",
+      "ordinal": 1,
+      "promptZh": "海报",
+      "answerEn": "poster",
+      "itemType": "word",
+      "pronunciation": "/ˈpəʊstə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/machine",
+      "sourceId": "day-009-002",
+      "ordinal": 2,
+      "promptZh": "机器",
+      "answerEn": "machine",
+      "itemType": "word",
+      "pronunciation": "/məˈʃiːn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/corner",
+      "sourceId": "day-009-003",
+      "ordinal": 3,
+      "promptZh": "角落;拐角",
+      "answerEn": "corner",
+      "itemType": "word",
+      "pronunciation": "/ˈkɔːnə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/be-filled-with",
+      "sourceId": "day-009-004",
+      "ordinal": 4,
+      "promptZh": "充满......",
+      "answerEn": "be filled with",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [
+        "be full of"
+      ],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/ancient",
+      "sourceId": "day-009-005",
+      "ordinal": 5,
+      "promptZh": "古代的;古老的",
+      "answerEn": "ancient",
+      "itemType": "word",
+      "pronunciation": "/ˈeɪnʃənt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/turninto",
+      "sourceId": "day-009-006",
+      "ordinal": 6,
+      "promptZh": "把......变成......",
+      "answerEn": "turn...into...",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/since-then",
+      "sourceId": "day-009-007",
+      "ordinal": 7,
+      "promptZh": "自从那时起",
+      "answerEn": "since then",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/spend",
+      "sourceId": "day-009-008",
+      "ordinal": 8,
+      "promptZh": "花费;度过",
+      "answerEn": "spend",
+      "itemType": "word",
+      "pronunciation": "/spend/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/pocket-money",
+      "sourceId": "day-009-009",
+      "ordinal": 9,
+      "promptZh": "零花钱",
+      "answerEn": "pocket money",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/save-money",
+      "sourceId": "day-009-010",
+      "ordinal": 10,
+      "promptZh": "存钱;节约钱",
+      "answerEn": "save money",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/collect",
+      "sourceId": "day-009-011",
+      "ordinal": 11,
+      "promptZh": "收集;采集",
+      "answerEn": "collect",
+      "itemType": "word",
+      "pronunciation": "/kəˈlekt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/collection",
+      "sourceId": "day-009-012",
+      "ordinal": 12,
+      "promptZh": "收藏品;收集",
+      "answerEn": "collection",
+      "itemType": "word",
+      "pronunciation": "/kəˈlekʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/treasure",
+      "sourceId": "day-009-013",
+      "ordinal": 13,
+      "promptZh": "珍宝;财富",
+      "answerEn": "treasure",
+      "itemType": "word",
+      "pronunciation": "/ˈtreʒə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/social-media",
+      "sourceId": "day-009-014",
+      "ordinal": 14,
+      "promptZh": "社交媒体",
+      "answerEn": "social media",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/millions-of-people",
+      "sourceId": "day-009-015",
+      "ordinal": 15,
+      "promptZh": "数百万人",
+      "answerEn": "millions of people",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/wise",
+      "sourceId": "day-009-016",
+      "ordinal": 16,
+      "promptZh": "明智的,智慧的",
+      "answerEn": "wise",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/wisely",
+      "sourceId": "day-009-017",
+      "ordinal": 17,
+      "promptZh": "明智地",
+      "answerEn": "wisely",
+      "itemType": "word",
+      "pronunciation": "/ˈwaɪzli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/wisdom",
+      "sourceId": "day-009-018",
+      "ordinal": 18,
+      "promptZh": "智慧",
+      "answerEn": "wisdom",
+      "itemType": "word",
+      "pronunciation": "/ˈwɪzdəm/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/pick-up",
+      "sourceId": "day-009-019",
+      "ordinal": 19,
+      "promptZh": "捡起;拾起",
+      "answerEn": "pick up",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/secret",
+      "sourceId": "day-009-020",
+      "ordinal": 20,
+      "promptZh": "秘密 秘密的",
+      "answerEn": "secret",
+      "itemType": "word",
+      "pronunciation": "/ˈsiːkrət/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/spirit",
+      "sourceId": "day-009-021",
+      "ordinal": 21,
+      "promptZh": "精神;心灵",
+      "answerEn": "spirit",
+      "itemType": "word",
+      "pronunciation": "/ˈspɪrɪt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day9知识点积累.pdf#page=2"
+    }
+  ]
+}

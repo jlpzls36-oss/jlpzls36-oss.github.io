@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-002",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/take-off",
+      "sourceId": "day-002-001",
+      "ordinal": 1,
+      "promptZh": "脱下;起飞",
+      "answerEn": "take off",
+      "itemType": "phrase",
+      "pronunciation": "/teɪk ɒf/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/broken",
+      "sourceId": "day-002-002",
+      "ordinal": 2,
+      "promptZh": "破碎的;损坏的",
+      "answerEn": "broken",
+      "itemType": "word",
+      "pronunciation": "/ˈbrəʊkən/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/tooto-do-something",
+      "sourceId": "day-002-003",
+      "ordinal": 3,
+      "promptZh": "太......而不能做某事",
+      "answerEn": "too...to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/at-first",
+      "sourceId": "day-002-004",
+      "ordinal": 4,
+      "promptZh": "起初,一开始",
+      "answerEn": "at first",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/rescue",
+      "sourceId": "day-002-005",
+      "ordinal": 5,
+      "promptZh": "营救;救援",
+      "answerEn": "rescue",
+      "itemType": "word",
+      "pronunciation": "/ˈreskjuː/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/rescuer",
+      "sourceId": "day-002-006",
+      "ordinal": 6,
+      "promptZh": "营救者,救援人员",
+      "answerEn": "rescuer",
+      "itemType": "word",
+      "pronunciation": "/ˈreskjuːə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/brave",
+      "sourceId": "day-002-007",
+      "ordinal": 7,
+      "promptZh": "勇敢的",
+      "answerEn": "brave",
+      "itemType": "word",
+      "pronunciation": "/breɪv/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/polite",
+      "sourceId": "day-002-008",
+      "ordinal": 8,
+      "promptZh": "有礼貌的",
+      "answerEn": "polite",
+      "itemType": "word",
+      "pronunciation": "/pəˈlaɪt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/a-13-year-old-boy",
+      "sourceId": "day-002-009",
+      "ordinal": 9,
+      "promptZh": "一个 13 岁的男孩",
+      "answerEn": "a 13-year-old boy",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/on-holiday",
+      "sourceId": "day-002-010",
+      "ordinal": 10,
+      "promptZh": "在度假",
+      "answerEn": "on holiday",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/suddenly",
+      "sourceId": "day-002-011",
+      "ordinal": 11,
+      "promptZh": "突然",
+      "answerEn": "suddenly",
+      "itemType": "word",
+      "pronunciation": "/ˈsʌdənli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/blow",
+      "sourceId": "day-002-012",
+      "ordinal": 12,
+      "promptZh": "吹",
+      "answerEn": "blow",
+      "itemType": "word",
+      "pronunciation": "/bləʊ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/famous",
+      "sourceId": "day-002-013",
+      "ordinal": 13,
+      "promptZh": "著名的",
+      "answerEn": "famous",
+      "itemType": "word",
+      "pronunciation": "/ˈfeɪməs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/decided-to-do-something",
+      "sourceId": "day-002-014",
+      "ordinal": 14,
+      "promptZh": "决定做某事",
+      "answerEn": "decided to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/swim",
+      "sourceId": "day-002-015",
+      "ordinal": 15,
+      "promptZh": "游泳",
+      "answerEn": "swim",
+      "itemType": "word",
+      "pronunciation": "/swɪm/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/wear",
+      "sourceId": "day-002-016",
+      "ordinal": 16,
+      "promptZh": "穿;佩戴",
+      "answerEn": "wear",
+      "itemType": "word",
+      "pronunciation": "/weə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/keep-doing-something",
+      "sourceId": "day-002-017",
+      "ordinal": 17,
+      "promptZh": "一直/持续做某事",
+      "answerEn": "keep doing sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/call-for-help",
+      "sourceId": "day-002-018",
+      "ordinal": 18,
+      "promptZh": "呼救",
+      "answerEn": "call for help",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/luck",
+      "sourceId": "day-002-019",
+      "ordinal": 19,
+      "promptZh": "运气",
+      "answerEn": "luck",
+      "itemType": "word",
+      "pronunciation": "/lʌk/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/lucky",
+      "sourceId": "day-002-020",
+      "ordinal": 20,
+      "promptZh": "幸运的",
+      "answerEn": "lucky",
+      "itemType": "word",
+      "pronunciation": "/ˈlʌki/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/luckily",
+      "sourceId": "day-002-021",
+      "ordinal": 21,
+      "promptZh": "幸运地",
+      "answerEn": "luckily",
+      "itemType": "word",
+      "pronunciation": "/ˈlʌkɪli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day2知识点积累.pdf#page=2"
+    }
+  ]
+}

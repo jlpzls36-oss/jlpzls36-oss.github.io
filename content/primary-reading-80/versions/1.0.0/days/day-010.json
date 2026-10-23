@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-010",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/child-children",
+      "sourceId": "day-010-001",
+      "ordinal": 1,
+      "promptZh": "孩子",
+      "answerEn": "child- children",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/do-some-reading",
+      "sourceId": "day-010-002",
+      "ordinal": 2,
+      "promptZh": "阅读;读点书",
+      "answerEn": "do some reading",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/lessons-are-over",
+      "sourceId": "day-010-003",
+      "ordinal": 3,
+      "promptZh": "下课了。",
+      "answerEn": "Lessons are over.",
+      "itemType": "sentence-pattern",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/would-like-to-do-something",
+      "sourceId": "day-010-004",
+      "ordinal": 4,
+      "promptZh": "想要做某事",
+      "answerEn": "would like to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/tell-somebody-about-something",
+      "sourceId": "day-010-005",
+      "ordinal": 5,
+      "promptZh": "告诉某人关于某事",
+      "answerEn": "tell sb. about sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/the-first-lesson",
+      "sourceId": "day-010-006",
+      "ordinal": 6,
+      "promptZh": "第一节课",
+      "answerEn": "the first lesson",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/begin-at-9-20-a-m",
+      "sourceId": "day-010-007",
+      "ordinal": 7,
+      "promptZh": "在上午 9 点 20 分开始",
+      "answerEn": "begin at 9:20 a. m.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/last-for-an-hour",
+      "sourceId": "day-010-008",
+      "ordinal": 8,
+      "promptZh": "持续一小时",
+      "answerEn": "last for an hour",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/have-a-break",
+      "sourceId": "day-010-009",
+      "ordinal": 9,
+      "promptZh": "休息一下",
+      "answerEn": "have a break",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/from-to",
+      "sourceId": "day-010-010",
+      "ordinal": 10,
+      "promptZh": "从......到......",
+      "answerEn": "from ... to ...",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/eat-snacks",
+      "sourceId": "day-010-011",
+      "ordinal": 11,
+      "promptZh": "吃零食",
+      "answerEn": "eat snacks",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/play-games",
+      "sourceId": "day-010-012",
+      "ordinal": 12,
+      "promptZh": "玩游戏",
+      "answerEn": "play games",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/during",
+      "sourceId": "day-010-013",
+      "ordinal": 13,
+      "promptZh": "在......期间",
+      "answerEn": "during",
+      "itemType": "word",
+      "pronunciation": "/ˈdjʊərɪŋ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/test",
+      "sourceId": "day-010-014",
+      "ordinal": 14,
+      "promptZh": "测试;考试",
+      "answerEn": "test",
+      "itemType": "word",
+      "pronunciation": "/test/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/an-english-lesson",
+      "sourceId": "day-010-015",
+      "ordinal": 15,
+      "promptZh": "一节英语课",
+      "answerEn": "an English lesson",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/lunchtime",
+      "sourceId": "day-010-016",
+      "ordinal": 16,
+      "promptZh": "午餐时间",
+      "answerEn": "lunchtime",
+      "itemType": "word",
+      "pronunciation": "/ˈlʌntʃtaɪm/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/bring-something-from-sp",
+      "sourceId": "day-010-017",
+      "ordinal": 17,
+      "promptZh": "从某地带来某物",
+      "answerEn": "bring sth. from sp.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/have-lunch",
+      "sourceId": "day-010-018",
+      "ordinal": 18,
+      "promptZh": "吃午饭",
+      "answerEn": "have lunch",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/after-lunch",
+      "sourceId": "day-010-019",
+      "ordinal": 19,
+      "promptZh": "午饭后",
+      "answerEn": "after lunch",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/club",
+      "sourceId": "day-010-020",
+      "ordinal": 20,
+      "promptZh": "俱乐部",
+      "answerEn": "club",
+      "itemType": "word",
+      "pronunciation": "/klʌb/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/in-the-morning",
+      "sourceId": "day-010-021",
+      "ordinal": 21,
+      "promptZh": "在早上/下午/晚上",
+      "answerEn": "in the morning",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [
+        "in the afternoon",
+        "in the evening"
+      ],
+      "sourceRef": "小升初80篇阅读Day10知识点积累.pdf#page=2"
+    }
+  ]
+}

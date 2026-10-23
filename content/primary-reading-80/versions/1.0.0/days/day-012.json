@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-012",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/know-each-other",
+      "sourceId": "day-012-001",
+      "ordinal": 1,
+      "promptZh": "互相认识;彼此了解",
+      "answerEn": "know each other",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/airport",
+      "sourceId": "day-012-002",
+      "ordinal": 2,
+      "promptZh": "机场",
+      "answerEn": "airport",
+      "itemType": "word",
+      "pronunciation": "/ˈeəpɔːt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/grandmother",
+      "sourceId": "day-012-003",
+      "ordinal": 3,
+      "promptZh": "祖母;外祖母",
+      "answerEn": "grandmother",
+      "itemType": "word",
+      "pronunciation": "/ˈɡrænmʌðə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/habit",
+      "sourceId": "day-012-004",
+      "ordinal": 4,
+      "promptZh": "习惯",
+      "answerEn": "habit",
+      "itemType": "word",
+      "pronunciation": "/ˈhæbɪt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/have-a-lot-to-talk-about",
+      "sourceId": "day-012-005",
+      "ordinal": 5,
+      "promptZh": "有很多话可聊",
+      "answerEn": "have a lot to talk about",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/for-the-first-time",
+      "sourceId": "day-012-006",
+      "ordinal": 6,
+      "promptZh": "第一次",
+      "answerEn": "for the first time",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/teach-taught",
+      "sourceId": "day-012-007",
+      "ordinal": 7,
+      "promptZh": "教",
+      "answerEn": "teach- taught",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/teach-somebody-to-do-something",
+      "sourceId": "day-012-008",
+      "ordinal": 8,
+      "promptZh": "教某人做某事",
+      "answerEn": "teach sb. to do sth.",
+      "itemType": "sentence-pattern",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/at-last",
+      "sourceId": "day-012-009",
+      "ordinal": 9,
+      "promptZh": "最后;终于",
+      "answerEn": "at last",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/plan-to-do-something",
+      "sourceId": "day-012-010",
+      "ordinal": 10,
+      "promptZh": "计划做某事",
+      "answerEn": "plan to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/atmosphere",
+      "sourceId": "day-012-011",
+      "ordinal": 11,
+      "promptZh": "气氛;氛围",
+      "answerEn": "atmosphere",
+      "itemType": "word",
+      "pronunciation": "/ˈætməsfɪə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/taste-delicious-local-food",
+      "sourceId": "day-012-012",
+      "ordinal": 12,
+      "promptZh": "品尝美味的当地食物",
+      "answerEn": "taste delicious local food",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/february",
+      "sourceId": "day-012-013",
+      "ordinal": 13,
+      "promptZh": "二月",
+      "answerEn": "February",
+      "itemType": "word",
+      "pronunciation": "/ˈfebruəri/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/an-american-family",
+      "sourceId": "day-012-014",
+      "ordinal": 14,
+      "promptZh": "一个美国家庭",
+      "answerEn": "an American family",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/by-doing-something",
+      "sourceId": "day-012-015",
+      "ordinal": 15,
+      "promptZh": "通过做某事",
+      "answerEn": "by doing sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/daughter",
+      "sourceId": "day-012-016",
+      "ordinal": 16,
+      "promptZh": "女儿",
+      "answerEn": "daughter",
+      "itemType": "word",
+      "pronunciation": "/ˈdɔːtə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/invite-somebody-to-do-something",
+      "sourceId": "day-012-017",
+      "ordinal": 17,
+      "promptZh": "邀请某人做某事",
+      "answerEn": "invite sb. to do sth.",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/invitation",
+      "sourceId": "day-012-018",
+      "ordinal": 18,
+      "promptZh": "邀请",
+      "answerEn": "invitation",
+      "itemType": "word",
+      "pronunciation": "/ˌɪnvɪˈteɪʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/experience",
+      "sourceId": "day-012-019",
+      "ordinal": 19,
+      "promptZh": "经历;经验",
+      "answerEn": "experience",
+      "itemType": "word",
+      "pronunciation": "/ɪkˈspɪəriəns/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/be-happy-to-do-something",
+      "sourceId": "day-012-020",
+      "ordinal": 20,
+      "promptZh": "很高兴做某事",
+      "answerEn": "be happy to do sth.",
+      "itemType": "sentence-pattern",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day12知识点积累.pdf#page=2"
+    }
+  ]
+}

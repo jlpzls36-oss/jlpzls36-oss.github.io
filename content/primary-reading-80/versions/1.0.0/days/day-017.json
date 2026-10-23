@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-017",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/familiar",
+      "sourceId": "day-017-001",
+      "ordinal": 1,
+      "promptZh": "熟悉的",
+      "answerEn": "familiar",
+      "itemType": "word",
+      "pronunciation": "/fəˈmɪliə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/warm",
+      "sourceId": "day-017-002",
+      "ordinal": 2,
+      "promptZh": "温暖的",
+      "answerEn": "warm",
+      "itemType": "word",
+      "pronunciation": "/wɔːm/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/warmth",
+      "sourceId": "day-017-003",
+      "ordinal": 3,
+      "promptZh": "温暖,暖和",
+      "answerEn": "warmth",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/in-the-wild",
+      "sourceId": "day-017-004",
+      "ordinal": 4,
+      "promptZh": "在野外",
+      "answerEn": "in the wild",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/sleep-alone",
+      "sourceId": "day-017-005",
+      "ordinal": 5,
+      "promptZh": "独自睡觉",
+      "answerEn": "sleep alone",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/so-that",
+      "sourceId": "day-017-006",
+      "ordinal": 6,
+      "promptZh": "以便;为了",
+      "answerEn": "so that",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/get-your-attention",
+      "sourceId": "day-017-007",
+      "ordinal": 7,
+      "promptZh": "引起你的注意",
+      "answerEn": "get your attention",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/special",
+      "sourceId": "day-017-008",
+      "ordinal": 8,
+      "promptZh": "特别的",
+      "answerEn": "special",
+      "itemType": "word",
+      "pronunciation": "/ˈspeʃl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/favourite",
+      "sourceId": "day-017-009",
+      "ordinal": 9,
+      "promptZh": "最喜欢的",
+      "answerEn": "favourite",
+      "itemType": "word",
+      "pronunciation": "/ˈfeɪvərɪt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/comfortable",
+      "sourceId": "day-017-010",
+      "ordinal": 10,
+      "promptZh": "舒适的",
+      "answerEn": "comfortable",
+      "itemType": "word",
+      "pronunciation": "/ˈkʌmftəbl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/comfortably",
+      "sourceId": "day-017-011",
+      "ordinal": 11,
+      "promptZh": "舒适地",
+      "answerEn": "comfortably",
+      "itemType": "word",
+      "pronunciation": "/ˈkʌmftəbli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/reason",
+      "sourceId": "day-017-012",
+      "ordinal": 12,
+      "promptZh": "原因",
+      "answerEn": "reason",
+      "itemType": "word",
+      "pronunciation": "/ˈriːzn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/surface",
+      "sourceId": "day-017-013",
+      "ordinal": 13,
+      "promptZh": "表面",
+      "answerEn": "surface",
+      "itemType": "word",
+      "pronunciation": "/ˈsɜːfɪs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/perfect",
+      "sourceId": "day-017-014",
+      "ordinal": 14,
+      "promptZh": "完美的",
+      "answerEn": "perfect",
+      "itemType": "word",
+      "pronunciation": "/ˈpɜːfɪkt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/take-a-nap",
+      "sourceId": "day-017-015",
+      "ordinal": 15,
+      "promptZh": "小睡一会儿",
+      "answerEn": "take a nap",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/protect",
+      "sourceId": "day-017-016",
+      "ordinal": 16,
+      "promptZh": "保护",
+      "answerEn": "protect",
+      "itemType": "word",
+      "pronunciation": "/prəˈtekt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/protection",
+      "sourceId": "day-017-017",
+      "ordinal": 17,
+      "promptZh": "保护",
+      "answerEn": "protection",
+      "itemType": "word",
+      "pronunciation": "/prəˈtekʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/in-the-same-way",
+      "sourceId": "day-017-018",
+      "ordinal": 18,
+      "promptZh": "以同样的方式",
+      "answerEn": "in the same way",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/habit",
+      "sourceId": "day-017-019",
+      "ordinal": 19,
+      "promptZh": "习惯",
+      "answerEn": "habit",
+      "itemType": "word",
+      "pronunciation": "/ˈhæbɪt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/feel-happy-and-relaxed",
+      "sourceId": "day-017-020",
+      "ordinal": 20,
+      "promptZh": "感到开心和放松",
+      "answerEn": "feel happy and relaxed",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/bond",
+      "sourceId": "day-017-021",
+      "ordinal": 21,
+      "promptZh": "纽带;联系",
+      "answerEn": "bond",
+      "itemType": "word",
+      "pronunciation": "/bɒnd/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day17知识点积累.pdf#page=2"
+    }
+  ]
+}

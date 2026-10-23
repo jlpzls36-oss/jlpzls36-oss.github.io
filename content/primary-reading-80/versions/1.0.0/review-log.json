@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "contentVersion": "1.0.0",
+  "corrections": [
+    {
+      "sourceId": "day-003-019",
+      "promptZh": "只要；只要……就",
+      "note": "英文 as long as 与原中文“尤其；特别”不匹配，按已确认审校结论修正。"
+    },
+    {
+      "sourceId": "day-011-002",
+      "promptZh": "特别的",
+      "note": "英文 special 与原中文“袋鼠”不匹配，按已确认审校结论修正。"
+    },
+    {
+      "sourceId": "day-018-title",
+      "correctedDayId": "day-018",
+      "note": "第1页标题误写 Day 17；文件、答案页与内容均确认为 Day 18。"
+    }
+  ],
+  "wrappedRows": [
+    {
+      "sourceId": "day-010-021",
+      "note": "英文答案位于下一行，已合并，不是缺失项。"
+    },
+    {
+      "sourceId": "day-014-021",
+      "note": "英文答案位于下一行，已合并，不是缺失项。"
+    }
+  ],
+  "normalization": {
+    "rule": "英文小写、NFKC、空白与缩写标点归一后去重；不扩大合并语义。",
+    "note": "所有523条来源记录均保留，规范化后为437个学习目标。"
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-007",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/author",
+      "sourceId": "day-007-001",
+      "ordinal": 1,
+      "promptZh": "作者",
+      "answerEn": "author",
+      "itemType": "word",
+      "pronunciation": "/ˈɔːθə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/active",
+      "sourceId": "day-007-002",
+      "ordinal": 2,
+      "promptZh": "积极的;活跃的",
+      "answerEn": "active",
+      "itemType": "word",
+      "pronunciation": "/ˈæktɪv/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/lazy",
+      "sourceId": "day-007-003",
+      "ordinal": 3,
+      "promptZh": "懒惰的",
+      "answerEn": "lazy",
+      "itemType": "word",
+      "pronunciation": "/ˈleɪzi/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/develop-an-interest-in-reading",
+      "sourceId": "day-007-004",
+      "ordinal": 4,
+      "promptZh": "培养阅读兴趣",
+      "answerEn": "develop an interest in reading",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/neighbour",
+      "sourceId": "day-007-005",
+      "ordinal": 5,
+      "promptZh": "邻居",
+      "answerEn": "neighbour",
+      "itemType": "word",
+      "pronunciation": "/ˈneɪbə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/according-to",
+      "sourceId": "day-007-006",
+      "ordinal": 6,
+      "promptZh": "根据",
+      "answerEn": "according to",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/serious",
+      "sourceId": "day-007-007",
+      "ordinal": 7,
+      "promptZh": "严肃的;认真的",
+      "answerEn": "serious",
+      "itemType": "word",
+      "pronunciation": "/ˈsɪəriəs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/chocolate",
+      "sourceId": "day-007-008",
+      "ordinal": 8,
+      "promptZh": "巧克力",
+      "answerEn": "chocolate",
+      "itemType": "word",
+      "pronunciation": "/ˈtʃɒklət/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stupid",
+      "sourceId": "day-007-009",
+      "ordinal": 9,
+      "promptZh": "愚蠢的;笨的",
+      "answerEn": "stupid",
+      "itemType": "word",
+      "pronunciation": "/ˈstjuːpɪd/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stupidity",
+      "sourceId": "day-007-010",
+      "ordinal": 10,
+      "promptZh": "愚蠢;糊涂",
+      "answerEn": "stupidity",
+      "itemType": "word",
+      "pronunciation": "/stjuːˈpɪdəti/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/the-importance-of",
+      "sourceId": "day-007-011",
+      "ordinal": 11,
+      "promptZh": "......的重要性",
+      "answerEn": "the importance of",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/once-a-week",
+      "sourceId": "day-007-012",
+      "ordinal": 12,
+      "promptZh": "一周一次/两次",
+      "answerEn": "once a week",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [
+        "twice a week"
+      ],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/advise-somebody-to-do-something",
+      "sourceId": "day-007-013",
+      "ordinal": 13,
+      "promptZh": "建议某人做某事",
+      "answerEn": "advise sb.to do sth.",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/since-then",
+      "sourceId": "day-007-014",
+      "ordinal": 14,
+      "promptZh": "自从那时起",
+      "answerEn": "since then",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/at-last",
+      "sourceId": "day-007-015",
+      "ordinal": 15,
+      "promptZh": "最后;终于",
+      "answerEn": "at last",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/decide-to-do-something",
+      "sourceId": "day-007-016",
+      "ordinal": 16,
+      "promptZh": "决定做某事",
+      "answerEn": "decide to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/deal-with",
+      "sourceId": "day-007-017",
+      "ordinal": 17,
+      "promptZh": "处理;应对",
+      "answerEn": "deal with",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/restlessness",
+      "sourceId": "day-007-018",
+      "ordinal": 18,
+      "promptZh": "躁动;不安",
+      "answerEn": "restlessness",
+      "itemType": "word",
+      "pronunciation": "/ˈrestləsnəs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/hate",
+      "sourceId": "day-007-019",
+      "ordinal": 19,
+      "promptZh": "憎恨;讨厌",
+      "answerEn": "hate",
+      "itemType": "word",
+      "pronunciation": "/heɪt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/rescue",
+      "sourceId": "day-007-020",
+      "ordinal": 20,
+      "promptZh": "营救;救援",
+      "answerEn": "rescue",
+      "itemType": "word",
+      "pronunciation": "/ˈreskjuː/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/enjoyment",
+      "sourceId": "day-007-021",
+      "ordinal": 21,
+      "promptZh": "乐趣;享受",
+      "answerEn": "enjoyment",
+      "itemType": "word",
+      "pronunciation": "/ɪnˈdʒɔɪmənt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/teach-you-something-new",
+      "sourceId": "day-007-022",
+      "ordinal": 22,
+      "promptZh": "教你一些新东西",
+      "answerEn": "teach you something new",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day7知识点积累.pdf#page=2"
+    }
+  ]
+}

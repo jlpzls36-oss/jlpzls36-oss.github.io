@@ -1,6 +1,45 @@
 {
   "schemaVersion": 1,
   "courseId": "primary-reading-80",
-  "contentVersion": "1.0.0-draft.1",
-  "publishedDays": ["day-001"]
+  "contentVersion": "1.0.0",
+  "publishedDays": [
+    "day-001",
+    "day-002",
+    "day-003",
+    "day-004",
+    "day-005",
+    "day-006",
+    "day-007",
+    "day-008",
+    "day-009",
+    "day-010",
+    "day-011",
+    "day-012",
+    "day-013",
+    "day-014",
+    "day-015",
+    "day-016",
+    "day-017",
+    "day-018",
+    "day-019",
+    "day-020",
+    "day-021",
+    "day-022",
+    "day-023",
+    "day-024"
+  ],
+  "sourceOccurrenceCount": 523,
+  "learningTargetCount": 437,
+  "targets": {
+    "url": "/content/primary-reading-80/versions/1.0.0/targets.json",
+    "sha256": "7676f084312984acbaf56373fb45e9c0cbfd4b1b09ad06fc63735345e03653a5"
+  },
+  "sourceOccurrences": {
+    "url": "/content/primary-reading-80/versions/1.0.0/source-occurrences.json",
+    "sha256": "2ca96122bc41f09e9a446d58cfa450ccd60fc64384b4df25fe01d12233e7bb6a"
+  },
+  "reviewLog": {
+    "url": "/content/primary-reading-80/versions/1.0.0/review-log.json",
+    "sha256": "5772e3eff0ab4c4fba8a76487ac4e8e08af9740b49042081753310f47b76ac38"
+  }
 }

@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-019",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/once-upon-a-time",
+      "sourceId": "day-019-001",
+      "ordinal": 1,
+      "promptZh": "从前",
+      "answerEn": "once upon a time",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/there-be-somebody-doing-something",
+      "sourceId": "day-019-002",
+      "ordinal": 2,
+      "promptZh": "有某人正在做某事",
+      "answerEn": "there be sb. doing sth.",
+      "itemType": "sentence-pattern",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/a-wise-old-man",
+      "sourceId": "day-019-003",
+      "ordinal": 3,
+      "promptZh": "一位睿智的老人",
+      "answerEn": "a wise old man",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/wisely",
+      "sourceId": "day-019-004",
+      "ordinal": 4,
+      "promptZh": "明智地",
+      "answerEn": "wisely",
+      "itemType": "word",
+      "pronunciation": "/ˈwaɪzli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/wisdom",
+      "sourceId": "day-019-005",
+      "ordinal": 5,
+      "promptZh": "智慧",
+      "answerEn": "wisdom",
+      "itemType": "word",
+      "pronunciation": "/ˈwɪzdəm/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/village",
+      "sourceId": "day-019-006",
+      "ordinal": 6,
+      "promptZh": "村庄",
+      "answerEn": "village",
+      "itemType": "word",
+      "pronunciation": "/ˈvɪlɪdʒ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/villager",
+      "sourceId": "day-019-007",
+      "ordinal": 7,
+      "promptZh": "村民",
+      "answerEn": "villager",
+      "itemType": "word",
+      "pronunciation": "/ˈvɪlɪdʒə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/reputation",
+      "sourceId": "day-019-008",
+      "ordinal": 8,
+      "promptZh": "名声;名誉",
+      "answerEn": "reputation",
+      "itemType": "word",
+      "pronunciation": "/ˌrepjuˈteɪʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/advice",
+      "sourceId": "day-019-009",
+      "ordinal": 9,
+      "promptZh": "建议",
+      "answerEn": "advice",
+      "itemType": "word",
+      "pronunciation": "/ədˈvaɪs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/advise",
+      "sourceId": "day-019-010",
+      "ordinal": 10,
+      "promptZh": "建议",
+      "answerEn": "advise",
+      "itemType": "word",
+      "pronunciation": "/ədˈvaɪz/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/right",
+      "sourceId": "day-019-011",
+      "ordinal": 11,
+      "promptZh": "正确的;右面的 权利",
+      "answerEn": "right",
+      "itemType": "word",
+      "pronunciation": "/raɪt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/teach-others",
+      "sourceId": "day-019-012",
+      "ordinal": 12,
+      "promptZh": "教导别人",
+      "answerEn": "teach others",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/excitedly",
+      "sourceId": "day-019-013",
+      "ordinal": 13,
+      "promptZh": "兴奋地",
+      "answerEn": "excitedly",
+      "itemType": "word",
+      "pronunciation": "/ɪkˈsaɪtɪdli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stupid",
+      "sourceId": "day-019-014",
+      "ordinal": 14,
+      "promptZh": "愚蠢的;笨的",
+      "answerEn": "stupid",
+      "itemType": "word",
+      "pronunciation": "/ˈstjuːpɪd/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/suppose",
+      "sourceId": "day-019-015",
+      "ordinal": 15,
+      "promptZh": "假定;猜想",
+      "answerEn": "suppose",
+      "itemType": "word",
+      "pronunciation": "/səˈpəʊz/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/gift",
+      "sourceId": "day-019-016",
+      "ordinal": 16,
+      "promptZh": "天赋;礼物",
+      "answerEn": "gift",
+      "itemType": "word",
+      "pronunciation": "/ɡɪft/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/be-surprised-to-do-something",
+      "sourceId": "day-019-017",
+      "ordinal": 17,
+      "promptZh": "惊讶地做某事",
+      "answerEn": "be surprised to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/angry",
+      "sourceId": "day-019-018",
+      "ordinal": 18,
+      "promptZh": "生气的",
+      "answerEn": "angry",
+      "itemType": "word",
+      "pronunciation": "/ˈæŋɡri/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/anger",
+      "sourceId": "day-019-019",
+      "ordinal": 19,
+      "promptZh": "愤怒",
+      "answerEn": "anger",
+      "itemType": "word",
+      "pronunciation": "/ˈæŋɡə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/get-upset",
+      "sourceId": "day-019-020",
+      "ordinal": 20,
+      "promptZh": "变得沮丧/难过",
+      "answerEn": "get upset",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/hate-others",
+      "sourceId": "day-019-021",
+      "ordinal": 21,
+      "promptZh": "憎恨别人",
+      "answerEn": "hate others",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day19知识点积累.pdf#page=2"
+    }
+  ]
+}

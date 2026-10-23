@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-016",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/become-interested-in",
+      "sourceId": "day-016-001",
+      "ordinal": 1,
+      "promptZh": "对...产生兴趣",
+      "answerEn": "become interested in",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/borrowfrom",
+      "sourceId": "day-016-002",
+      "ordinal": 2,
+      "promptZh": "从...借来...",
+      "answerEn": "borrow...from...",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/lend-somebody-something-lend-something-to-somebody",
+      "sourceId": "day-016-003",
+      "ordinal": 3,
+      "promptZh": "借给某人某物",
+      "answerEn": "lend sb. sth.=lend sth. to sb.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/over-and-over-again",
+      "sourceId": "day-016-004",
+      "ordinal": 4,
+      "promptZh": "反复;一遍又一遍",
+      "answerEn": "over and over again",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/teach-oneself-how-to-do-something",
+      "sourceId": "day-016-005",
+      "ordinal": 5,
+      "promptZh": "自学如何做某事",
+      "answerEn": "teach oneself how to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/control",
+      "sourceId": "day-016-006",
+      "ordinal": 6,
+      "promptZh": "控制",
+      "answerEn": "control",
+      "itemType": "word",
+      "pronunciation": "/kənˈtrəʊl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/without-doing-something",
+      "sourceId": "day-016-007",
+      "ordinal": 7,
+      "promptZh": "没有做某事",
+      "answerEn": "without doing sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/touch",
+      "sourceId": "day-016-008",
+      "ordinal": 8,
+      "promptZh": "触摸;碰",
+      "answerEn": "touch",
+      "itemType": "word",
+      "pronunciation": "/tʌtʃ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/value",
+      "sourceId": "day-016-009",
+      "ordinal": 9,
+      "promptZh": "重视;珍视 价值",
+      "answerEn": "value",
+      "itemType": "word",
+      "pronunciation": "/ˈvæljuː/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/honesty",
+      "sourceId": "day-016-010",
+      "ordinal": 10,
+      "promptZh": "诚实",
+      "answerEn": "honesty",
+      "itemType": "word",
+      "pronunciation": "/ˈɒnəsti/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/kindness",
+      "sourceId": "day-016-011",
+      "ordinal": 11,
+      "promptZh": "善良;好意",
+      "answerEn": "kindness",
+      "itemType": "word",
+      "pronunciation": "/ˈkaɪndnəs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/perform",
+      "sourceId": "day-016-012",
+      "ordinal": 12,
+      "promptZh": "表演;演出",
+      "answerEn": "perform",
+      "itemType": "word",
+      "pronunciation": "/pəˈfɔːm/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/performance",
+      "sourceId": "day-016-013",
+      "ordinal": 13,
+      "promptZh": "表演;演出",
+      "answerEn": "performance",
+      "itemType": "word",
+      "pronunciation": "/pəˈfɔːməns/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/hear-of",
+      "sourceId": "day-016-014",
+      "ordinal": 14,
+      "promptZh": "听说",
+      "answerEn": "hear of",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/judge",
+      "sourceId": "day-016-015",
+      "ordinal": 15,
+      "promptZh": "判断 法官;评判员",
+      "answerEn": "judge",
+      "itemType": "word",
+      "pronunciation": "/dʒʌdʒ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stop-doing-something",
+      "sourceId": "day-016-016",
+      "ordinal": 16,
+      "promptZh": "停止做某事",
+      "answerEn": "stop doing sth.",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stop-to-do-something",
+      "sourceId": "day-016-017",
+      "ordinal": 17,
+      "promptZh": "停下来去做另一件事",
+      "answerEn": "stop to do sth.",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/invite-somebody-to-do-something",
+      "sourceId": "day-016-018",
+      "ordinal": 18,
+      "promptZh": "邀请某人做某事",
+      "answerEn": "invite sb. to do sth.",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/play-the-role-of",
+      "sourceId": "day-016-019",
+      "ordinal": 19,
+      "promptZh": "扮演...的角色",
+      "answerEn": "play the role of",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/keep-practising",
+      "sourceId": "day-016-020",
+      "ordinal": 20,
+      "promptZh": "坚持练习",
+      "answerEn": "keep practising",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/inspire",
+      "sourceId": "day-016-021",
+      "ordinal": 21,
+      "promptZh": "激励;鼓舞",
+      "answerEn": "inspire",
+      "itemType": "word",
+      "pronunciation": "/ɪnˈspaɪə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/gift",
+      "sourceId": "day-016-022",
+      "ordinal": 22,
+      "promptZh": "天赋;礼物",
+      "answerEn": "gift",
+      "itemType": "word",
+      "pronunciation": "/ɡɪft/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day16知识点积累.pdf#page=2"
+    }
+  ]
+}

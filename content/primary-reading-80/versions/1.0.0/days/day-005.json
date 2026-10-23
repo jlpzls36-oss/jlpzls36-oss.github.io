@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-005",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/social-media",
+      "sourceId": "day-005-001",
+      "ordinal": 1,
+      "promptZh": "社交媒体",
+      "answerEn": "social media",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/platform",
+      "sourceId": "day-005-002",
+      "ordinal": 2,
+      "promptZh": "平台",
+      "answerEn": "platform",
+      "itemType": "word",
+      "pronunciation": "/ˈplætfɔːm/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/australia",
+      "sourceId": "day-005-003",
+      "ordinal": 3,
+      "promptZh": "澳大利亚",
+      "answerEn": "Australia",
+      "itemType": "word",
+      "pronunciation": "/ɒˈstreɪliə/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/be-good-for",
+      "sourceId": "day-005-004",
+      "ordinal": 4,
+      "promptZh": "对......有好处",
+      "answerEn": "be good for",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/introduce",
+      "sourceId": "day-005-005",
+      "ordinal": 5,
+      "promptZh": "介绍",
+      "answerEn": "introduce",
+      "itemType": "word",
+      "pronunciation": "/ˌɪntrəˈdjuːs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stop-somebody-from-doing-something",
+      "sourceId": "day-005-006",
+      "ordinal": 6,
+      "promptZh": "阻止某人做某事",
+      "answerEn": "stop sb (from) doing sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/let-somebody-do-something",
+      "sourceId": "day-005-007",
+      "ordinal": 7,
+      "promptZh": "让某人做某事",
+      "answerEn": "let sb. do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/childhood",
+      "sourceId": "day-005-008",
+      "ordinal": 8,
+      "promptZh": "童年",
+      "answerEn": "childhood",
+      "itemType": "word",
+      "pronunciation": "/ˈtʃaɪldhʊd/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/safe",
+      "sourceId": "day-005-009",
+      "ordinal": 9,
+      "promptZh": "安全的",
+      "answerEn": "safe",
+      "itemType": "word",
+      "pronunciation": "/seɪf/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/safety",
+      "sourceId": "day-005-010",
+      "ordinal": 10,
+      "promptZh": "安全",
+      "answerEn": "safety",
+      "itemType": "word",
+      "pronunciation": "/ˈseɪfti/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/safely",
+      "sourceId": "day-005-011",
+      "ordinal": 11,
+      "promptZh": "安全地",
+      "answerEn": "safely",
+      "itemType": "word",
+      "pronunciation": "/ˈseɪfli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/in-many-ways",
+      "sourceId": "day-005-012",
+      "ordinal": 12,
+      "promptZh": "在许多方面",
+      "answerEn": "in many ways",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/strange",
+      "sourceId": "day-005-013",
+      "ordinal": 13,
+      "promptZh": "奇怪的",
+      "answerEn": "strange",
+      "itemType": "word",
+      "pronunciation": "/streɪndʒ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/strangers",
+      "sourceId": "day-005-014",
+      "ordinal": 14,
+      "promptZh": "陌生人",
+      "answerEn": "strangers",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/message",
+      "sourceId": "day-005-015",
+      "ordinal": 15,
+      "promptZh": "信息;消息",
+      "answerEn": "message",
+      "itemType": "word",
+      "pronunciation": "/ˈmesɪdʒ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/hobby",
+      "sourceId": "day-005-016",
+      "ordinal": 16,
+      "promptZh": "爱好",
+      "answerEn": "hobby",
+      "itemType": "word",
+      "pronunciation": "/ˈhɒbi/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/listen-to-music",
+      "sourceId": "day-005-017",
+      "ordinal": 17,
+      "promptZh": "听音乐",
+      "answerEn": "listen to music",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/spend",
+      "sourceId": "day-005-018",
+      "ordinal": 18,
+      "promptZh": "花费;度过",
+      "answerEn": "spend",
+      "itemType": "word",
+      "pronunciation": "/spend/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/friendship",
+      "sourceId": "day-005-019",
+      "ordinal": 19,
+      "promptZh": "友谊",
+      "answerEn": "friendship",
+      "itemType": "word",
+      "pronunciation": "/ˈfrendʃɪp/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/such-as",
+      "sourceId": "day-005-020",
+      "ordinal": 20,
+      "promptZh": "例如",
+      "answerEn": "such as",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/jump-rope",
+      "sourceId": "day-005-021",
+      "ordinal": 21,
+      "promptZh": "跳绳",
+      "answerEn": "jump rope",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day5知识点积累.pdf#page=2"
+    }
+  ]
+}

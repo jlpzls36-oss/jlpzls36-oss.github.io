@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-014",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/hurt",
+      "sourceId": "day-014-001",
+      "ordinal": 1,
+      "promptZh": "使受伤;伤害",
+      "answerEn": "hurt",
+      "itemType": "word",
+      "pronunciation": "/hɜːt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/take-away",
+      "sourceId": "day-014-002",
+      "ordinal": 2,
+      "promptZh": "拿走;夺走",
+      "answerEn": "take away",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/bee",
+      "sourceId": "day-014-003",
+      "ordinal": 3,
+      "promptZh": "蜜蜂",
+      "answerEn": "bee",
+      "itemType": "word",
+      "pronunciation": "/biː/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/honey",
+      "sourceId": "day-014-004",
+      "ordinal": 4,
+      "promptZh": "蜂蜜",
+      "answerEn": "honey",
+      "itemType": "word",
+      "pronunciation": "/ˈhʌni/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/help-plants-grow",
+      "sourceId": "day-014-005",
+      "ordinal": 5,
+      "promptZh": "帮助植物生长",
+      "answerEn": "help plants grow",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/face",
+      "sourceId": "day-014-006",
+      "ordinal": 6,
+      "promptZh": "面对 面孔",
+      "answerEn": "face",
+      "itemType": "word",
+      "pronunciation": "/feɪs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/war",
+      "sourceId": "day-014-007",
+      "ordinal": 7,
+      "promptZh": "战争",
+      "answerEn": "war",
+      "itemType": "word",
+      "pronunciation": "/wɔː(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/all-over-the-world",
+      "sourceId": "day-014-008",
+      "ordinal": 8,
+      "promptZh": "世界各地",
+      "answerEn": "all over the world",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/crop",
+      "sourceId": "day-014-009",
+      "ordinal": 9,
+      "promptZh": "庄稼;农作物",
+      "answerEn": "crop",
+      "itemType": "word",
+      "pronunciation": "/krɒp/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/have-trouble-in-doing-something",
+      "sourceId": "day-014-010",
+      "ordinal": 10,
+      "promptZh": "做某事有困难",
+      "answerEn": "have trouble(in)doing sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/the-rest-of",
+      "sourceId": "day-014-011",
+      "ordinal": 11,
+      "promptZh": "其余的;剩下的",
+      "answerEn": "the rest of",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/turn-into",
+      "sourceId": "day-014-012",
+      "ordinal": 12,
+      "promptZh": "变成",
+      "answerEn": "turn into",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/pollute",
+      "sourceId": "day-014-013",
+      "ordinal": 13,
+      "promptZh": "污染",
+      "answerEn": "pollute",
+      "itemType": "word",
+      "pronunciation": "/pəˈluːt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/pollution",
+      "sourceId": "day-014-014",
+      "ordinal": 14,
+      "promptZh": "污染",
+      "answerEn": "pollution",
+      "itemType": "word",
+      "pronunciation": "/pəˈluːʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/be-bad-for",
+      "sourceId": "day-014-015",
+      "ordinal": 15,
+      "promptZh": "对......有害",
+      "answerEn": "be bad for",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/dirty",
+      "sourceId": "day-014-016",
+      "ordinal": 16,
+      "promptZh": "脏的",
+      "answerEn": "dirty",
+      "itemType": "word",
+      "pronunciation": "/ˈdɜːti/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/die",
+      "sourceId": "day-014-017",
+      "ordinal": 17,
+      "promptZh": "死亡;消逝",
+      "answerEn": "die",
+      "itemType": "word",
+      "pronunciation": "/daɪ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/take-action-to-do-something",
+      "sourceId": "day-014-018",
+      "ordinal": 18,
+      "promptZh": "采取行动做某事",
+      "answerEn": "take action to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/electric",
+      "sourceId": "day-014-019",
+      "ordinal": 19,
+      "promptZh": "电的;用电的",
+      "answerEn": "electric",
+      "itemType": "word",
+      "pronunciation": "/ɪˈlektrɪk/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/make-the-air-cleaner",
+      "sourceId": "day-014-020",
+      "ordinal": 20,
+      "promptZh": "使空气更洁净",
+      "answerEn": "make the air cleaner",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/it-s-time-for-us-to-take-action-to-save-bees",
+      "sourceId": "day-014-021",
+      "ordinal": 21,
+      "promptZh": "是我们采取行动拯救蜜蜂的时候了。",
+      "answerEn": "It's time for us to take action to save bees.",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day14知识点积累.pdf#page=2"
+    }
+  ]
+}

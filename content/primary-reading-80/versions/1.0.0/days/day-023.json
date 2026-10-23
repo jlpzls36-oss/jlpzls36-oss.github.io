@@ -1,0 +1,264 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-023",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/restaurant",
+      "sourceId": "day-023-001",
+      "ordinal": 1,
+      "promptZh": "餐馆",
+      "answerEn": "restaurant",
+      "itemType": "word",
+      "pronunciation": "/ˈrestərɒnt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/don-t-need-to-do-something",
+      "sourceId": "day-023-002",
+      "ordinal": 2,
+      "promptZh": "不必做某事",
+      "answerEn": "don't need to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [
+        "needn't do sth."
+      ],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/need-to-do-something",
+      "sourceId": "day-023-003",
+      "ordinal": 3,
+      "promptZh": "需要做某事",
+      "answerEn": "need to do sth",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/special",
+      "sourceId": "day-023-004",
+      "ordinal": 4,
+      "promptZh": "特别的",
+      "answerEn": "special",
+      "itemType": "word",
+      "pronunciation": "/ˈspeʃl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/cheap",
+      "sourceId": "day-023-005",
+      "ordinal": 5,
+      "promptZh": "便宜的",
+      "answerEn": "cheap",
+      "itemType": "word",
+      "pronunciation": "/tʃiːp/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/expensive",
+      "sourceId": "day-023-006",
+      "ordinal": 6,
+      "promptZh": "昂贵的",
+      "answerEn": "expensive",
+      "itemType": "word",
+      "pronunciation": "/ɪkˈspensɪv/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/look-after",
+      "sourceId": "day-023-007",
+      "ordinal": 7,
+      "promptZh": "照顾;照料",
+      "answerEn": "look after",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/full",
+      "sourceId": "day-023-008",
+      "ordinal": 8,
+      "promptZh": "满的;饱的",
+      "answerEn": "full",
+      "itemType": "word",
+      "pronunciation": "/fʊl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/run",
+      "sourceId": "day-023-009",
+      "ordinal": 9,
+      "promptZh": "跑;经营",
+      "answerEn": "run",
+      "itemType": "word",
+      "pronunciation": "/rʌn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/manager",
+      "sourceId": "day-023-010",
+      "ordinal": 10,
+      "promptZh": "经理",
+      "answerEn": "manager",
+      "itemType": "word",
+      "pronunciation": "/ˈmænɪdʒə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/cook",
+      "sourceId": "day-023-011",
+      "ordinal": 11,
+      "promptZh": "厨师",
+      "answerEn": "cook",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/cashier",
+      "sourceId": "day-023-012",
+      "ordinal": 12,
+      "promptZh": "收银员",
+      "answerEn": "cashier",
+      "itemType": "word",
+      "pronunciation": "/kæˈʃɪə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/give-somebody-a-chance-to-do-something",
+      "sourceId": "day-023-013",
+      "ordinal": 13,
+      "promptZh": "给某人做某事的机会",
+      "answerEn": "give sb a chance to do sth",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/learn-something-useful",
+      "sourceId": "day-023-014",
+      "ordinal": 14,
+      "promptZh": "学到一些有用的东西",
+      "answerEn": "learn something useful",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/useful",
+      "sourceId": "day-023-015",
+      "ordinal": 15,
+      "promptZh": "有用的",
+      "answerEn": "useful",
+      "itemType": "word",
+      "pronunciation": "/ˈjuːsfl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/useless",
+      "sourceId": "day-023-016",
+      "ordinal": 16,
+      "promptZh": "无用的",
+      "answerEn": "useless",
+      "itemType": "word",
+      "pronunciation": "/ˈjuːsləs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/adult",
+      "sourceId": "day-023-017",
+      "ordinal": 17,
+      "promptZh": "成年人",
+      "answerEn": "adult",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/welcome",
+      "sourceId": "day-023-018",
+      "ordinal": 18,
+      "promptZh": "欢迎 受欢迎的",
+      "answerEn": "welcome",
+      "itemType": "word",
+      "pronunciation": "/ˈwelkəm/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/seat",
+      "sourceId": "day-023-019",
+      "ordinal": 19,
+      "promptZh": "座位",
+      "answerEn": "seat",
+      "itemType": "word",
+      "pronunciation": "/siːt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/book-a-table",
+      "sourceId": "day-023-020",
+      "ordinal": 20,
+      "promptZh": "预订餐桌",
+      "answerEn": "book a table",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/ahead-of-time",
+      "sourceId": "day-023-021",
+      "ordinal": 21,
+      "promptZh": "提前;预先",
+      "answerEn": "ahead of time",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/the-price-of",
+      "sourceId": "day-023-022",
+      "ordinal": 22,
+      "promptZh": "......的价格",
+      "answerEn": "the price of",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/finish-their-homework",
+      "sourceId": "day-023-023",
+      "ordinal": 23,
+      "promptZh": "完成他们的家庭作业",
+      "answerEn": "finish their homework",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day23知识点积累.pdf#page=2"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-008",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/chance",
+      "sourceId": "day-008-001",
+      "ordinal": 1,
+      "promptZh": "机会;可能性",
+      "answerEn": "chance",
+      "itemType": "word",
+      "pronunciation": "/tʃɑːns/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/relax",
+      "sourceId": "day-008-002",
+      "ordinal": 2,
+      "promptZh": "放松",
+      "answerEn": "relax",
+      "itemType": "word",
+      "pronunciation": "/rɪˈlæks/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/until",
+      "sourceId": "day-008-003",
+      "ordinal": 3,
+      "promptZh": "直到... 到...为止",
+      "answerEn": "until",
+      "itemType": "word",
+      "pronunciation": "/ənˈtɪl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/hardly",
+      "sourceId": "day-008-004",
+      "ordinal": 4,
+      "promptZh": "几乎不;简直不",
+      "answerEn": "hardly",
+      "itemType": "word",
+      "pronunciation": "/ˈhɑːdli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/look-forward-to",
+      "sourceId": "day-008-005",
+      "ordinal": 5,
+      "promptZh": "期待;盼望",
+      "answerEn": "look forward to",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/final",
+      "sourceId": "day-008-006",
+      "ordinal": 6,
+      "promptZh": "最终的;最后的",
+      "answerEn": "final",
+      "itemType": "word",
+      "pronunciation": "/ˈfaɪnl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/finally",
+      "sourceId": "day-008-007",
+      "ordinal": 7,
+      "promptZh": "最后;最终",
+      "answerEn": "finally",
+      "itemType": "word",
+      "pronunciation": "/ˈfaɪnəli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/set-a-big-goal",
+      "sourceId": "day-008-008",
+      "ordinal": 8,
+      "promptZh": "设立一个宏大目标",
+      "answerEn": "set a big goal",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/national",
+      "sourceId": "day-008-009",
+      "ordinal": 9,
+      "promptZh": "国家的;全国的",
+      "answerEn": "national",
+      "itemType": "word",
+      "pronunciation": "/ˈnæʃnəl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/invite",
+      "sourceId": "day-008-010",
+      "ordinal": 10,
+      "promptZh": "邀请",
+      "answerEn": "invite",
+      "itemType": "word",
+      "pronunciation": "/ɪnˈvaɪt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/invitation",
+      "sourceId": "day-008-011",
+      "ordinal": 11,
+      "promptZh": "邀请",
+      "answerEn": "invitation",
+      "itemType": "word",
+      "pronunciation": "/ˌɪnvɪˈteɪʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/tent",
+      "sourceId": "day-008-012",
+      "ordinal": 12,
+      "promptZh": "帐篷",
+      "answerEn": "tent",
+      "itemType": "word",
+      "pronunciation": "/tent/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/enjoy-the-beauty-of-nature",
+      "sourceId": "day-008-013",
+      "ordinal": 13,
+      "promptZh": "欣赏大自然的美",
+      "answerEn": "enjoy the beauty of nature",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/observe",
+      "sourceId": "day-008-014",
+      "ordinal": 14,
+      "promptZh": "观察;注意到",
+      "answerEn": "observe",
+      "itemType": "word",
+      "pronunciation": "/əbˈzɜːv/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/experience",
+      "sourceId": "day-008-015",
+      "ordinal": 15,
+      "promptZh": "经历;经验",
+      "answerEn": "experience",
+      "itemType": "word",
+      "pronunciation": "/ɪkˈspɪəriəns/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/continue",
+      "sourceId": "day-008-016",
+      "ordinal": 16,
+      "promptZh": "继续",
+      "answerEn": "continue",
+      "itemType": "word",
+      "pronunciation": "/kənˈtɪnjuː/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/journey",
+      "sourceId": "day-008-017",
+      "ordinal": 17,
+      "promptZh": "旅行;旅程",
+      "answerEn": "journey",
+      "itemType": "word",
+      "pronunciation": "/ˈdʒɜːni/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/overcome",
+      "sourceId": "day-008-018",
+      "ordinal": 18,
+      "promptZh": "克服",
+      "answerEn": "overcome",
+      "itemType": "word",
+      "pronunciation": "/ˌəʊvəˈkʌm/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/difficulty",
+      "sourceId": "day-008-019",
+      "ordinal": 19,
+      "promptZh": "困难",
+      "answerEn": "difficulty",
+      "itemType": "word",
+      "pronunciation": "/ˈdɪfɪkəlti/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/overcome-many-difficulties",
+      "sourceId": "day-008-020",
+      "ordinal": 20,
+      "promptZh": "克服许多困难",
+      "answerEn": "overcome many difficulties",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/explore",
+      "sourceId": "day-008-021",
+      "ordinal": 21,
+      "promptZh": "探索",
+      "answerEn": "explore",
+      "itemType": "word",
+      "pronunciation": "/ɪkˈsplɔː(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/celebrate",
+      "sourceId": "day-008-022",
+      "ordinal": 22,
+      "promptZh": "庆祝",
+      "answerEn": "celebrate",
+      "itemType": "word",
+      "pronunciation": "/ˈselɪbreɪt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/special",
+      "sourceId": "day-008-023",
+      "ordinal": 23,
+      "promptZh": "特别的",
+      "answerEn": "special",
+      "itemType": "word",
+      "pronunciation": "/ˈspeʃl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day8知识点积累.pdf#page=2"
+    }
+  ]
+}

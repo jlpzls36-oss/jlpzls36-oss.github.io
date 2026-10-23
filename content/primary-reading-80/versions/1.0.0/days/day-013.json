@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-013",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/get-mad-at",
+      "sourceId": "day-013-001",
+      "ordinal": 1,
+      "promptZh": "对......生气",
+      "answerEn": "get mad at",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/message",
+      "sourceId": "day-013-002",
+      "ordinal": 2,
+      "promptZh": "信息;消息",
+      "answerEn": "message",
+      "itemType": "word",
+      "pronunciation": "/ˈmesɪdʒ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stop-doing-something",
+      "sourceId": "day-013-003",
+      "ordinal": 3,
+      "promptZh": "停止做某事",
+      "answerEn": "stop doing sth.",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stop-to-do-something",
+      "sourceId": "day-013-004",
+      "ordinal": 4,
+      "promptZh": "停下来去做另一件事",
+      "answerEn": "stop to do sth.",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/make-friends-with-somebody",
+      "sourceId": "day-013-005",
+      "ordinal": 5,
+      "promptZh": "和某人交朋友",
+      "answerEn": "make friends with sb.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/as-a-result",
+      "sourceId": "day-013-006",
+      "ordinal": 6,
+      "promptZh": "因此;结果",
+      "answerEn": "as a result",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/misunderstand",
+      "sourceId": "day-013-007",
+      "ordinal": 7,
+      "promptZh": "误解",
+      "answerEn": "misunderstand",
+      "itemType": "word",
+      "pronunciation": "/ˌmɪsʌndəˈstænd/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/experience",
+      "sourceId": "day-013-008",
+      "ordinal": 8,
+      "promptZh": "经历;经验",
+      "answerEn": "experience",
+      "itemType": "word",
+      "pronunciation": "/ɪkˈspɪəriəns/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/not-onlybut-also",
+      "sourceId": "day-013-009",
+      "ordinal": 9,
+      "promptZh": "不仅......而且......",
+      "answerEn": "not only...but also...",
+      "itemType": "sentence-pattern",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/teenager",
+      "sourceId": "day-013-010",
+      "ordinal": 10,
+      "promptZh": "青少年",
+      "answerEn": "teenager",
+      "itemType": "word",
+      "pronunciation": "/ˈtiːneɪdʒə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/shy",
+      "sourceId": "day-013-011",
+      "ordinal": 11,
+      "promptZh": "害羞的",
+      "answerEn": "shy",
+      "itemType": "word",
+      "pronunciation": "/ʃaɪ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/conversation",
+      "sourceId": "day-013-012",
+      "ordinal": 12,
+      "promptZh": "交谈;谈话",
+      "answerEn": "conversation",
+      "itemType": "word",
+      "pronunciation": "/ˌkɒnvəˈseɪʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stranger",
+      "sourceId": "day-013-013",
+      "ordinal": 13,
+      "promptZh": "陌生人",
+      "answerEn": "stranger",
+      "itemType": "word",
+      "pronunciation": "/ˈstreɪndʒə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/don-t-have-to-do-something",
+      "sourceId": "day-013-014",
+      "ordinal": 14,
+      "promptZh": "不必做某事",
+      "answerEn": "don't have to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/relax",
+      "sourceId": "day-013-015",
+      "ordinal": 15,
+      "promptZh": "放松",
+      "answerEn": "relax",
+      "itemType": "word",
+      "pronunciation": "/rɪˈlæks/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/culture",
+      "sourceId": "day-013-016",
+      "ordinal": 16,
+      "promptZh": "文化",
+      "answerEn": "culture",
+      "itemType": "word",
+      "pronunciation": "/ˈkʌltʃə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/body-language",
+      "sourceId": "day-013-017",
+      "ordinal": 17,
+      "promptZh": "肢体语言",
+      "answerEn": "body language",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/dangerous",
+      "sourceId": "day-013-018",
+      "ordinal": 18,
+      "promptZh": "危险的",
+      "answerEn": "dangerous",
+      "itemType": "word",
+      "pronunciation": "/ˈdeɪndʒərəs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/disappear",
+      "sourceId": "day-013-019",
+      "ordinal": 19,
+      "promptZh": "消失",
+      "answerEn": "disappear",
+      "itemType": "word",
+      "pronunciation": "/ˌdɪsəˈpɪə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/argue-with-them",
+      "sourceId": "day-013-020",
+      "ordinal": 20,
+      "promptZh": "和他们争吵",
+      "answerEn": "argue with them",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/difficult",
+      "sourceId": "day-013-021",
+      "ordinal": 21,
+      "promptZh": "困难的",
+      "answerEn": "difficult",
+      "itemType": "word",
+      "pronunciation": "/ˈdɪfɪkəlt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/difficulty",
+      "sourceId": "day-013-022",
+      "ordinal": 22,
+      "promptZh": "困难",
+      "answerEn": "difficulty",
+      "itemType": "word",
+      "pronunciation": "/ˈdɪfɪkəlti/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day13知识点积累.pdf#page=2"
+    }
+  ]
+}

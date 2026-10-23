@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-022",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/version",
+      "sourceId": "day-022-001",
+      "ordinal": 1,
+      "promptZh": "版本",
+      "answerEn": "version",
+      "itemType": "word",
+      "pronunciation": "/ˈvɜːʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/simple",
+      "sourceId": "day-022-002",
+      "ordinal": 2,
+      "promptZh": "简单的",
+      "answerEn": "simple",
+      "itemType": "word",
+      "pronunciation": "/ˈsɪmpl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/at-first",
+      "sourceId": "day-022-003",
+      "ordinal": 3,
+      "promptZh": "起初,一开始",
+      "answerEn": "at first",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/keep-doing-something",
+      "sourceId": "day-022-004",
+      "ordinal": 4,
+      "promptZh": "一直/持续做某事",
+      "answerEn": "keep doing sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/forever",
+      "sourceId": "day-022-005",
+      "ordinal": 5,
+      "promptZh": "永远",
+      "answerEn": "forever",
+      "itemType": "word",
+      "pronunciation": "/fərˈevə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/astronaut",
+      "sourceId": "day-022-006",
+      "ordinal": 6,
+      "promptZh": "宇航员",
+      "answerEn": "astronaut",
+      "itemType": "word",
+      "pronunciation": "/ˈæstrənɔːt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/do-exercise",
+      "sourceId": "day-022-007",
+      "ordinal": 7,
+      "promptZh": "做锻炼",
+      "answerEn": "do exercise",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/keep-healthy",
+      "sourceId": "day-022-008",
+      "ordinal": 8,
+      "promptZh": "保持健康",
+      "answerEn": "keep healthy",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/function",
+      "sourceId": "day-022-009",
+      "ordinal": 9,
+      "promptZh": "功能;作用",
+      "answerEn": "function",
+      "itemType": "word",
+      "pronunciation": "/ˈfʌŋkʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/fate",
+      "sourceId": "day-022-010",
+      "ordinal": 10,
+      "promptZh": "命运",
+      "answerEn": "fate",
+      "itemType": "word",
+      "pronunciation": "/feɪt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/magazine",
+      "sourceId": "day-022-011",
+      "ordinal": 11,
+      "promptZh": "杂志",
+      "answerEn": "magazine",
+      "itemType": "word",
+      "pronunciation": "/ˌmæɡəˈziːn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/geography",
+      "sourceId": "day-022-012",
+      "ordinal": 12,
+      "promptZh": "地理",
+      "answerEn": "geography",
+      "itemType": "word",
+      "pronunciation": "/dʒiˈɒɡrəfi/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/daily",
+      "sourceId": "day-022-013",
+      "ordinal": 13,
+      "promptZh": "每日的;日常的",
+      "answerEn": "daily",
+      "itemType": "word",
+      "pronunciation": "/ˈdeɪli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/international",
+      "sourceId": "day-022-014",
+      "ordinal": 14,
+      "promptZh": "国际的",
+      "answerEn": "international",
+      "itemType": "word",
+      "pronunciation": "/ˌɪntəˈnæʃnəl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/huge",
+      "sourceId": "day-022-015",
+      "ordinal": 15,
+      "promptZh": "巨大的",
+      "answerEn": "huge",
+      "itemType": "word",
+      "pronunciation": "/hjuːdʒ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/lab",
+      "sourceId": "day-022-016",
+      "ordinal": 16,
+      "promptZh": "实验室",
+      "answerEn": "lab",
+      "itemType": "word",
+      "pronunciation": "/læb/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/since-then",
+      "sourceId": "day-022-017",
+      "ordinal": 17,
+      "promptZh": "自从那时起",
+      "answerEn": "since then",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/empty",
+      "sourceId": "day-022-018",
+      "ordinal": 18,
+      "promptZh": "空的",
+      "answerEn": "empty",
+      "itemType": "word",
+      "pronunciation": "/ˈempti/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/machine",
+      "sourceId": "day-022-019",
+      "ordinal": 19,
+      "promptZh": "机器",
+      "answerEn": "machine",
+      "itemType": "word",
+      "pronunciation": "/məˈʃiːn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/allow-somebody-to-do-something",
+      "sourceId": "day-022-020",
+      "ordinal": 20,
+      "promptZh": "允许某人做某事",
+      "answerEn": "allow sb. to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/last",
+      "sourceId": "day-022-021",
+      "ordinal": 21,
+      "promptZh": "持续;维持",
+      "answerEn": "last",
+      "itemType": "word",
+      "pronunciation": "/lɑːst/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stop-doing-something",
+      "sourceId": "day-022-022",
+      "ordinal": 22,
+      "promptZh": "停止做某事",
+      "answerEn": "stop doing sth.",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stop-to-do-something",
+      "sourceId": "day-022-023",
+      "ordinal": 23,
+      "promptZh": "停下来去做另一件事",
+      "answerEn": "stop to do sth.",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/atmosphere",
+      "sourceId": "day-022-024",
+      "ordinal": 24,
+      "promptZh": "气氛;氛围",
+      "answerEn": "atmosphere",
+      "itemType": "word",
+      "pronunciation": "/ˈætməsfɪə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day22知识点积累.pdf#page=2"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-015",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/totally",
+      "sourceId": "day-015-001",
+      "ordinal": 1,
+      "promptZh": "完全地;全部地",
+      "answerEn": "totally",
+      "itemType": "word",
+      "pronunciation": "/ˈtəʊtəli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/agree",
+      "sourceId": "day-015-002",
+      "ordinal": 2,
+      "promptZh": "同意",
+      "answerEn": "agree",
+      "itemType": "word",
+      "pronunciation": "/əˈɡriː/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/agreement",
+      "sourceId": "day-015-003",
+      "ordinal": 3,
+      "promptZh": "协议;同意",
+      "answerEn": "agreement",
+      "itemType": "word",
+      "pronunciation": "/əˈɡriːmənt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/saying",
+      "sourceId": "day-015-004",
+      "ordinal": 4,
+      "promptZh": "谚语;俗语",
+      "answerEn": "saying",
+      "itemType": "word",
+      "pronunciation": "/ˈseɪɪŋ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/americans",
+      "sourceId": "day-015-005",
+      "ordinal": 5,
+      "promptZh": "美国人",
+      "answerEn": "Americans",
+      "itemType": "word",
+      "pronunciation": "/əˈmerɪkənz/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/have-time-to-do-something",
+      "sourceId": "day-015-006",
+      "ordinal": 6,
+      "promptZh": "有时间做某事",
+      "answerEn": "have time to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/make-too-much-noise",
+      "sourceId": "day-015-007",
+      "ordinal": 7,
+      "promptZh": "制造太多噪音",
+      "answerEn": "make too much noise",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/restaurant",
+      "sourceId": "day-015-008",
+      "ordinal": 8,
+      "promptZh": "餐馆",
+      "answerEn": "restaurant",
+      "itemType": "word",
+      "pronunciation": "/ˈrestərɒnt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/manager",
+      "sourceId": "day-015-009",
+      "ordinal": 9,
+      "promptZh": "经理",
+      "answerEn": "manager",
+      "itemType": "word",
+      "pronunciation": "/ˈmænɪdʒə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/ask-somebody-to-do-something",
+      "sourceId": "day-015-010",
+      "ordinal": 10,
+      "promptZh": "要求某人做某事",
+      "answerEn": "ask sb. to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/learn-from",
+      "sourceId": "day-015-011",
+      "ordinal": 11,
+      "promptZh": "向......学习",
+      "answerEn": "learn from",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/article",
+      "sourceId": "day-015-012",
+      "ordinal": 12,
+      "promptZh": "文章",
+      "answerEn": "article",
+      "itemType": "word",
+      "pronunciation": "/ˈɑːtɪkl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/different-countries",
+      "sourceId": "day-015-013",
+      "ordinal": 13,
+      "promptZh": "不同的国家",
+      "answerEn": "different countries",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/different-eating-habits",
+      "sourceId": "day-015-014",
+      "ordinal": 14,
+      "promptZh": "不同的饮食习惯",
+      "answerEn": "different eating habits",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/after-work",
+      "sourceId": "day-015-015",
+      "ordinal": 15,
+      "promptZh": "下班后",
+      "answerEn": "after work",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/a-way-to-do-something",
+      "sourceId": "day-015-016",
+      "ordinal": 16,
+      "promptZh": "做某事的一种方式",
+      "answerEn": "a way to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/take-a-good-rest",
+      "sourceId": "day-015-017",
+      "ordinal": 17,
+      "promptZh": "好好休息",
+      "answerEn": "take a good rest",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/have-a-good-time",
+      "sourceId": "day-015-018",
+      "ordinal": 18,
+      "promptZh": "玩得开心",
+      "answerEn": "have a good time",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/far-away-from",
+      "sourceId": "day-015-019",
+      "ordinal": 19,
+      "promptZh": "远离......",
+      "answerEn": "far away from",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/noisy",
+      "sourceId": "day-015-020",
+      "ordinal": 20,
+      "promptZh": "吵闹的",
+      "answerEn": "noisy",
+      "itemType": "word",
+      "pronunciation": "/ˈnɔɪzi/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/look-at-them-angrily",
+      "sourceId": "day-015-021",
+      "ordinal": 21,
+      "promptZh": "生气地看着他们",
+      "answerEn": "look at them angrily",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/look-angry",
+      "sourceId": "day-015-022",
+      "ordinal": 22,
+      "promptZh": "看起来生气",
+      "answerEn": "look angry",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/even",
+      "sourceId": "day-015-023",
+      "ordinal": 23,
+      "promptZh": "甚至;即使",
+      "answerEn": "even",
+      "itemType": "word",
+      "pronunciation": "/ˈiːvn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day15知识点积累.pdf#page=2"
+    }
+  ]
+}

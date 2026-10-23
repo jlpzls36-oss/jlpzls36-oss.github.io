@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-003",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/at-first",
+      "sourceId": "day-003-001",
+      "ordinal": 1,
+      "promptZh": "起初,一开始",
+      "answerEn": "at first",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stage",
+      "sourceId": "day-003-002",
+      "ordinal": 2,
+      "promptZh": "舞台;阶段",
+      "answerEn": "stage",
+      "itemType": "word",
+      "pronunciation": "/steɪdʒ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/muscle",
+      "sourceId": "day-003-003",
+      "ordinal": 3,
+      "promptZh": "肌肉",
+      "answerEn": "muscle",
+      "itemType": "word",
+      "pronunciation": "/ˈmʌsl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/relax",
+      "sourceId": "day-003-004",
+      "ordinal": 4,
+      "promptZh": "放松",
+      "answerEn": "relax",
+      "itemType": "word",
+      "pronunciation": "/rɪˈlæks/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/relaxed",
+      "sourceId": "day-003-005",
+      "ordinal": 5,
+      "promptZh": "感到放松的",
+      "answerEn": "relaxed",
+      "itemType": "word",
+      "pronunciation": "/rɪˈlækst/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/relaxing",
+      "sourceId": "day-003-006",
+      "ordinal": 6,
+      "promptZh": "令人放松的",
+      "answerEn": "relaxing",
+      "itemType": "word",
+      "pronunciation": "/rɪˈlæksɪŋ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/go-to-bed-late",
+      "sourceId": "day-003-007",
+      "ordinal": 7,
+      "promptZh": "晚睡",
+      "answerEn": "go to bed late",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/get-up-late",
+      "sourceId": "day-003-008",
+      "ordinal": 8,
+      "promptZh": "晚起",
+      "answerEn": "get up late",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/wake-up",
+      "sourceId": "day-003-009",
+      "ordinal": 9,
+      "promptZh": "醒来",
+      "answerEn": "wake up",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/it-s-difficult-to-do-something",
+      "sourceId": "day-003-010",
+      "ordinal": 10,
+      "promptZh": "做某事是困难的",
+      "answerEn": "it's difficult to do sth.",
+      "itemType": "sentence-pattern",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/it-s-important-to-do-something",
+      "sourceId": "day-003-011",
+      "ordinal": 11,
+      "promptZh": "做某事是重要的",
+      "answerEn": "it's important to do sth.",
+      "itemType": "sentence-pattern",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/cycle",
+      "sourceId": "day-003-012",
+      "ordinal": 12,
+      "promptZh": "循环;周期",
+      "answerEn": "cycle",
+      "itemType": "word",
+      "pronunciation": "/ˈsaɪkl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/experience",
+      "sourceId": "day-003-013",
+      "ordinal": 13,
+      "promptZh": "经历;经验",
+      "answerEn": "experience",
+      "itemType": "word",
+      "pronunciation": "/ɪkˈspɪəriəns/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/temperature",
+      "sourceId": "day-003-014",
+      "ordinal": 14,
+      "promptZh": "温度",
+      "answerEn": "temperature",
+      "itemType": "word",
+      "pronunciation": "/ˈtemprətʃə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/repair",
+      "sourceId": "day-003-015",
+      "ordinal": 15,
+      "promptZh": "修理;修补",
+      "answerEn": "repair",
+      "itemType": "word",
+      "pronunciation": "/rɪˈpeə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/finally",
+      "sourceId": "day-003-016",
+      "ordinal": 16,
+      "promptZh": "最后;最终",
+      "answerEn": "finally",
+      "itemType": "word",
+      "pronunciation": "/ˈfaɪnəli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/rapid",
+      "sourceId": "day-003-017",
+      "ordinal": 17,
+      "promptZh": "迅速的",
+      "answerEn": "rapid",
+      "itemType": "word",
+      "pronunciation": "/ˈræpɪd/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/especially",
+      "sourceId": "day-003-018",
+      "ordinal": 18,
+      "promptZh": "尤其;特别",
+      "answerEn": "especially",
+      "itemType": "word",
+      "pronunciation": "/ɪˈspeʃəli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/as-long-as",
+      "sourceId": "day-003-019",
+      "ordinal": 19,
+      "promptZh": "只要；只要……就",
+      "answerEn": "as long as",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/in-fact",
+      "sourceId": "day-003-020",
+      "ordinal": 20,
+      "promptZh": "事实上",
+      "answerEn": "in fact",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day3知识点积累.pdf#page=2"
+    }
+  ]
+}

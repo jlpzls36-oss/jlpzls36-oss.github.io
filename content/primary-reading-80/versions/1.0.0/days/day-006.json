@@ -1,0 +1,275 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-006",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/be-from",
+      "sourceId": "day-006-001",
+      "ordinal": 1,
+      "promptZh": "来自",
+      "answerEn": "be from",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [
+        "come from"
+      ],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/province",
+      "sourceId": "day-006-002",
+      "ordinal": 2,
+      "promptZh": "省",
+      "answerEn": "province",
+      "itemType": "word",
+      "pronunciation": "/ˈprɒvɪns/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/teach-taught",
+      "sourceId": "day-006-003",
+      "ordinal": 3,
+      "promptZh": "教",
+      "answerEn": "teach- taught",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/choose-chose",
+      "sourceId": "day-006-004",
+      "ordinal": 4,
+      "promptZh": "选择",
+      "answerEn": "choose- chose",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/safe",
+      "sourceId": "day-006-005",
+      "ordinal": 5,
+      "promptZh": "安全的",
+      "answerEn": "safe",
+      "itemType": "word",
+      "pronunciation": "/seɪf/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/safety",
+      "sourceId": "day-006-006",
+      "ordinal": 6,
+      "promptZh": "安全",
+      "answerEn": "safety",
+      "itemType": "word",
+      "pronunciation": "/ˈseɪfti/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/safely",
+      "sourceId": "day-006-007",
+      "ordinal": 7,
+      "promptZh": "安全地",
+      "answerEn": "safely",
+      "itemType": "word",
+      "pronunciation": "/ˈseɪfli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/prove",
+      "sourceId": "day-006-008",
+      "ordinal": 8,
+      "promptZh": "证明",
+      "answerEn": "prove",
+      "itemType": "word",
+      "pronunciation": "/pruːv/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/gentle",
+      "sourceId": "day-006-009",
+      "ordinal": 9,
+      "promptZh": "温和的;文雅的",
+      "answerEn": "gentle",
+      "itemType": "word",
+      "pronunciation": "/ˈdʒentl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/at-first",
+      "sourceId": "day-006-010",
+      "ordinal": 10,
+      "promptZh": "起初,一开始",
+      "answerEn": "at first",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/refuse-to-do-something",
+      "sourceId": "day-006-011",
+      "ordinal": 11,
+      "promptZh": "拒绝做某事",
+      "answerEn": "refuse to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/fault",
+      "sourceId": "day-006-012",
+      "ordinal": 12,
+      "promptZh": "过错;缺点",
+      "answerEn": "fault",
+      "itemType": "word",
+      "pronunciation": "/fɔːlt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/worried",
+      "sourceId": "day-006-013",
+      "ordinal": 13,
+      "promptZh": "担忧的",
+      "answerEn": "worried",
+      "itemType": "word",
+      "pronunciation": "/ˈwʌrid/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/scared",
+      "sourceId": "day-006-014",
+      "ordinal": 14,
+      "promptZh": "害怕的;恐惧的",
+      "answerEn": "scared",
+      "itemType": "word",
+      "pronunciation": "/skeəd/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/keep-doing-something",
+      "sourceId": "day-006-015",
+      "ordinal": 15,
+      "promptZh": "一直/持续做某事",
+      "answerEn": "keep doing sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/after-doing-something",
+      "sourceId": "day-006-016",
+      "ordinal": 16,
+      "promptZh": "在做某事之后",
+      "answerEn": "after doing sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/let-somebody-do-something",
+      "sourceId": "day-006-017",
+      "ordinal": 17,
+      "promptZh": "让某人做某事",
+      "answerEn": "let sb. do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/dangerous",
+      "sourceId": "day-006-018",
+      "ordinal": 18,
+      "promptZh": "危险的",
+      "answerEn": "dangerous",
+      "itemType": "word",
+      "pronunciation": "/ˈdeɪndʒərəs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/praise",
+      "sourceId": "day-006-019",
+      "ordinal": 19,
+      "promptZh": "表扬;赞扬",
+      "answerEn": "praise",
+      "itemType": "word",
+      "pronunciation": "/preɪz/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/responsible",
+      "sourceId": "day-006-020",
+      "ordinal": 20,
+      "promptZh": "有责任心的",
+      "answerEn": "responsible",
+      "itemType": "word",
+      "pronunciation": "/rɪˈspɒnsəbl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/protect",
+      "sourceId": "day-006-021",
+      "ordinal": 21,
+      "promptZh": "保护",
+      "answerEn": "protect",
+      "itemType": "word",
+      "pronunciation": "/prəˈtekt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/protection",
+      "sourceId": "day-006-022",
+      "ordinal": 22,
+      "promptZh": "保护",
+      "answerEn": "protection",
+      "itemType": "word",
+      "pronunciation": "/prəˈtekʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/be-strict-with-somebody",
+      "sourceId": "day-006-023",
+      "ordinal": 23,
+      "promptZh": "对某人严格",
+      "answerEn": "be strict with sb.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/brave",
+      "sourceId": "day-006-024",
+      "ordinal": 24,
+      "promptZh": "勇敢的",
+      "answerEn": "brave",
+      "itemType": "word",
+      "pronunciation": "/breɪv/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day6知识点积累.pdf#page=2"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-001",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/daily-habits",
+      "sourceId": "day-001-001",
+      "ordinal": 1,
+      "promptZh": "日常习惯",
+      "answerEn": "daily habits",
+      "itemType": "phrase",
+      "pronunciation": "/ˈdeɪli ˈhæbɪts/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/simple",
+      "sourceId": "day-001-002",
+      "ordinal": 2,
+      "promptZh": "简单的",
+      "answerEn": "simple",
+      "itemType": "word",
+      "pronunciation": "/ˈsɪmpl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/be-full-of",
+      "sourceId": "day-001-003",
+      "ordinal": 3,
+      "promptZh": "充满...;装满...",
+      "answerEn": "be full of",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/wise",
+      "sourceId": "day-001-004",
+      "ordinal": 4,
+      "promptZh": "明智的,智慧的",
+      "answerEn": "wise",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/wisdom",
+      "sourceId": "day-001-005",
+      "ordinal": 5,
+      "promptZh": "智慧",
+      "answerEn": "wisdom",
+      "itemType": "word",
+      "pronunciation": "/ˈwɪzdəm/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/videos",
+      "sourceId": "day-001-006",
+      "ordinal": 6,
+      "promptZh": "视频",
+      "answerEn": "videos",
+      "itemType": "word",
+      "pronunciation": "/ˈvɪdiəʊz/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/more-than",
+      "sourceId": "day-001-007",
+      "ordinal": 7,
+      "promptZh": "超过;多于",
+      "answerEn": "more than",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/million",
+      "sourceId": "day-001-008",
+      "ordinal": 8,
+      "promptZh": "百万",
+      "answerEn": "million",
+      "itemType": "word",
+      "pronunciation": "/ˈmɪljən/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/health",
+      "sourceId": "day-001-009",
+      "ordinal": 9,
+      "promptZh": "健康",
+      "answerEn": "health",
+      "itemType": "word",
+      "pronunciation": "/helθ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/healthily",
+      "sourceId": "day-001-010",
+      "ordinal": 10,
+      "promptZh": "健康地",
+      "answerEn": "healthily",
+      "itemType": "word",
+      "pronunciation": "/ˈhelθɪli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/keep-healthy",
+      "sourceId": "day-001-011",
+      "ordinal": 11,
+      "promptZh": "保持健康",
+      "answerEn": "keep healthy",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/hope-to-do-something",
+      "sourceId": "day-001-012",
+      "ordinal": 12,
+      "promptZh": "希望做某事",
+      "answerEn": "hope to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/culture",
+      "sourceId": "day-001-013",
+      "ordinal": 13,
+      "promptZh": "文化",
+      "answerEn": "culture",
+      "itemType": "word",
+      "pronunciation": "/ˈkʌltʃə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/chinese-culture",
+      "sourceId": "day-001-014",
+      "ordinal": 14,
+      "promptZh": "中国文化",
+      "answerEn": "Chinese culture",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/useful",
+      "sourceId": "day-001-015",
+      "ordinal": 15,
+      "promptZh": "有用的",
+      "answerEn": "useful",
+      "itemType": "word",
+      "pronunciation": "/ˈjuːsfl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/be-popular-among",
+      "sourceId": "day-001-016",
+      "ordinal": 16,
+      "promptZh": "在...当中受欢迎",
+      "answerEn": "be popular among",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [
+        "be popular with"
+      ],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/an-interesting-thing",
+      "sourceId": "day-001-017",
+      "ordinal": 17,
+      "promptZh": "一件有趣的事",
+      "answerEn": "an interesting thing",
+      "itemType": "phrase",
+      "pronunciation": "/ˈɪntrəstɪŋ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/be-interested-in",
+      "sourceId": "day-001-018",
+      "ordinal": 18,
+      "promptZh": "对...感兴趣",
+      "answerEn": "be interested in",
+      "itemType": "phrase",
+      "pronunciation": "/ˈɪntrəstɪd/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/fresh",
+      "sourceId": "day-001-019",
+      "ordinal": 19,
+      "promptZh": "新鲜的",
+      "answerEn": "fresh",
+      "itemType": "word",
+      "pronunciation": "/freʃ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/warm",
+      "sourceId": "day-001-020",
+      "ordinal": 20,
+      "promptZh": "温暖的",
+      "answerEn": "warm",
+      "itemType": "word",
+      "pronunciation": "/wɔːm/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/warmth",
+      "sourceId": "day-001-021",
+      "ordinal": 21,
+      "promptZh": "温暖,暖和",
+      "answerEn": "warmth",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day1知识点积累.pdf#page=2"
+    }
+  ]
+}

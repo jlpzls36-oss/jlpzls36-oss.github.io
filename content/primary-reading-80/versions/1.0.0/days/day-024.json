@@ -1,0 +1,275 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-024",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/direction",
+      "sourceId": "day-024-001",
+      "ordinal": 1,
+      "promptZh": "方向",
+      "answerEn": "direction",
+      "itemType": "word",
+      "pronunciation": "/dəˈrekʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/common",
+      "sourceId": "day-024-002",
+      "ordinal": 2,
+      "promptZh": "普通的;常见的",
+      "answerEn": "common",
+      "itemType": "word",
+      "pronunciation": "/ˈkɒmən/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/in-our-daily-lives",
+      "sourceId": "day-024-003",
+      "ordinal": 3,
+      "promptZh": "在我们的日常生活中",
+      "answerEn": "in our daily lives",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/how-to-do-something",
+      "sourceId": "day-024-004",
+      "ordinal": 4,
+      "promptZh": "怎样做某事",
+      "answerEn": "how to do sth",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/foreign",
+      "sourceId": "day-024-005",
+      "ordinal": 5,
+      "promptZh": "外国的",
+      "answerEn": "foreign",
+      "itemType": "word",
+      "pronunciation": "/ˈfɒrən/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/foreigner",
+      "sourceId": "day-024-006",
+      "ordinal": 6,
+      "promptZh": "外国人",
+      "answerEn": "foreigner",
+      "itemType": "word",
+      "pronunciation": "/ˈfɒrənə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/influence",
+      "sourceId": "day-024-007",
+      "ordinal": 7,
+      "promptZh": "影响",
+      "answerEn": "influence",
+      "itemType": "word",
+      "pronunciation": "/ˈɪnfluəns/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/advice",
+      "sourceId": "day-024-008",
+      "ordinal": 8,
+      "promptZh": "建议",
+      "answerEn": "advice",
+      "itemType": "word",
+      "pronunciation": "/ədˈvaɪs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/polite",
+      "sourceId": "day-024-009",
+      "ordinal": 9,
+      "promptZh": "有礼貌的",
+      "answerEn": "polite",
+      "itemType": "word",
+      "pronunciation": "/pəˈlaɪt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/impolite",
+      "sourceId": "day-024-010",
+      "ordinal": 10,
+      "promptZh": "无礼的",
+      "answerEn": "impolite",
+      "itemType": "word",
+      "pronunciation": "/ˌɪmpəˈlaɪt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/politeness",
+      "sourceId": "day-024-011",
+      "ordinal": 11,
+      "promptZh": "礼貌",
+      "answerEn": "politeness",
+      "itemType": "word",
+      "pronunciation": "/pəˈlaɪtnəs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/expression",
+      "sourceId": "day-024-012",
+      "ordinal": 12,
+      "promptZh": "表达",
+      "answerEn": "expression",
+      "itemType": "word",
+      "pronunciation": "/ɪkˈspreʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/conversation",
+      "sourceId": "day-024-013",
+      "ordinal": 13,
+      "promptZh": "交谈;谈话",
+      "answerEn": "conversation",
+      "itemType": "word",
+      "pronunciation": "/ˌkɒnvəˈseɪʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/explain",
+      "sourceId": "day-024-014",
+      "ordinal": 14,
+      "promptZh": "解释",
+      "answerEn": "explain",
+      "itemType": "word",
+      "pronunciation": "/ɪkˈspleɪn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/explanation",
+      "sourceId": "day-024-015",
+      "ordinal": 15,
+      "promptZh": "解释",
+      "answerEn": "explanation",
+      "itemType": "word",
+      "pronunciation": "/ˌekspləˈneɪʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/proper",
+      "sourceId": "day-024-016",
+      "ordinal": 16,
+      "promptZh": "恰当的;合适的",
+      "answerEn": "proper",
+      "itemType": "word",
+      "pronunciation": "/ˈprɒpə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/information",
+      "sourceId": "day-024-017",
+      "ordinal": 17,
+      "promptZh": "信息",
+      "answerEn": "information",
+      "itemType": "word",
+      "pronunciation": "/ˌɪnfəˈmeɪʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/excellent",
+      "sourceId": "day-024-018",
+      "ordinal": 18,
+      "promptZh": "优秀的",
+      "answerEn": "excellent",
+      "itemType": "word",
+      "pronunciation": "/ˈeksələnt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/be-afraid-of-doing-something",
+      "sourceId": "day-024-019",
+      "ordinal": 19,
+      "promptZh": "害怕做某事",
+      "answerEn": "be afraid of doing sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [
+        "be afraid to do sth."
+      ],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/landmark",
+      "sourceId": "day-024-020",
+      "ordinal": 20,
+      "promptZh": "地标;标志性建筑",
+      "answerEn": "landmark",
+      "itemType": "word",
+      "pronunciation": "/ˈlændmɑːk/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/there-is-no-need-to-do-something",
+      "sourceId": "day-024-021",
+      "ordinal": 21,
+      "promptZh": "没有必要做某事",
+      "answerEn": "there is no need to do sth",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/laugh-at-somebody",
+      "sourceId": "day-024-022",
+      "ordinal": 22,
+      "promptZh": "嘲笑某人",
+      "answerEn": "laugh at sb",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/get-lost",
+      "sourceId": "day-024-023",
+      "ordinal": 23,
+      "promptZh": "迷路",
+      "answerEn": "get lost",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/especially",
+      "sourceId": "day-024-024",
+      "ordinal": 24,
+      "promptZh": "尤其;特别",
+      "answerEn": "especially",
+      "itemType": "word",
+      "pronunciation": "/ɪˈspeʃəli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day24知识点积累.pdf#page=2"
+    }
+  ]
+}

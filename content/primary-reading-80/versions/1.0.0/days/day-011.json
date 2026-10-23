@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-011",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/kangaroo",
+      "sourceId": "day-011-001",
+      "ordinal": 1,
+      "promptZh": "袋鼠",
+      "answerEn": "kangaroo",
+      "itemType": "word",
+      "pronunciation": "/ˌkæŋɡəˈruː/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/special",
+      "sourceId": "day-011-002",
+      "ordinal": 2,
+      "promptZh": "特别的",
+      "answerEn": "special",
+      "itemType": "word",
+      "pronunciation": "/ˈspeʃl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/tell-somebody-to-do-something",
+      "sourceId": "day-011-003",
+      "ordinal": 3,
+      "promptZh": "告诉某人做某事",
+      "answerEn": "tell sb. to do sth.",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/touch",
+      "sourceId": "day-011-004",
+      "ordinal": 4,
+      "promptZh": "触摸;碰",
+      "answerEn": "touch",
+      "itemType": "word",
+      "pronunciation": "/tʌtʃ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/protect",
+      "sourceId": "day-011-005",
+      "ordinal": 5,
+      "promptZh": "保护",
+      "answerEn": "protect",
+      "itemType": "word",
+      "pronunciation": "/prəˈtekt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/protection",
+      "sourceId": "day-011-006",
+      "ordinal": 6,
+      "promptZh": "保护",
+      "answerEn": "protection",
+      "itemType": "word",
+      "pronunciation": "/prəˈtekʃn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/australia",
+      "sourceId": "day-011-007",
+      "ordinal": 7,
+      "promptZh": "澳大利亚",
+      "answerEn": "Australia",
+      "itemType": "word",
+      "pronunciation": "/ɒˈstreɪliə/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/australian",
+      "sourceId": "day-011-008",
+      "ordinal": 8,
+      "promptZh": "澳大利亚人 澳大利亚的",
+      "answerEn": "Australian",
+      "itemType": "word",
+      "pronunciation": "/ɒˈstreɪliən/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/live-safely",
+      "sourceId": "day-011-009",
+      "ordinal": 9,
+      "promptZh": "安全地生活",
+      "answerEn": "live safely",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/keep-safe",
+      "sourceId": "day-011-010",
+      "ordinal": 10,
+      "promptZh": "保持安全",
+      "answerEn": "keep safe",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/food-safety",
+      "sourceId": "day-011-011",
+      "ordinal": 11,
+      "promptZh": "食品安全",
+      "answerEn": "food safety",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/tail",
+      "sourceId": "day-011-012",
+      "ordinal": 12,
+      "promptZh": "尾巴",
+      "answerEn": "tail",
+      "itemType": "word",
+      "pronunciation": "/teɪl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/national",
+      "sourceId": "day-011-013",
+      "ordinal": 13,
+      "promptZh": "国家的;全国的",
+      "answerEn": "national",
+      "itemType": "word",
+      "pronunciation": "/ˈnæʃnəl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stand-for",
+      "sourceId": "day-011-014",
+      "ordinal": 14,
+      "promptZh": "代表;象征",
+      "answerEn": "stand for",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/make-progress",
+      "sourceId": "day-011-015",
+      "ordinal": 15,
+      "promptZh": "取得进步",
+      "answerEn": "make progress",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/feed-fed",
+      "sourceId": "day-011-016",
+      "ordinal": 16,
+      "promptZh": "喂养",
+      "answerEn": "feed- fed",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/jump-far",
+      "sourceId": "day-011-017",
+      "ordinal": 17,
+      "promptZh": "跳得远",
+      "answerEn": "jump far",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/dig-dug",
+      "sourceId": "day-011-018",
+      "ordinal": 18,
+      "promptZh": "挖",
+      "answerEn": "dig- dug",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/more-than",
+      "sourceId": "day-011-019",
+      "ordinal": 19,
+      "promptZh": "超过;多于",
+      "answerEn": "more than",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/tiny",
+      "sourceId": "day-011-020",
+      "ordinal": 20,
+      "promptZh": "极小的;微小的",
+      "answerEn": "tiny",
+      "itemType": "word",
+      "pronunciation": "/ˈtaɪni/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/keep-doing-something",
+      "sourceId": "day-011-021",
+      "ordinal": 21,
+      "promptZh": "一直/持续做某事",
+      "answerEn": "keep doing sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day11知识点积累.pdf#page=2"
+    }
+  ]
+}

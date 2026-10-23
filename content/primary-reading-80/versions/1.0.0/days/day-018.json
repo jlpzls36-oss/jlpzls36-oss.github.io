@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-018",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/funny",
+      "sourceId": "day-018-001",
+      "ordinal": 1,
+      "promptZh": "有趣的",
+      "answerEn": "funny",
+      "itemType": "word",
+      "pronunciation": "/ˈfʌni/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/that-s-why",
+      "sourceId": "day-018-002",
+      "ordinal": 2,
+      "promptZh": "这就是为什么",
+      "answerEn": "that's why",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/five-children",
+      "sourceId": "day-018-003",
+      "ordinal": 3,
+      "promptZh": "五个孩子",
+      "answerEn": "five children",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/a-university",
+      "sourceId": "day-018-004",
+      "ordinal": 4,
+      "promptZh": "一所大学",
+      "answerEn": "a university",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/helpful",
+      "sourceId": "day-018-005",
+      "ordinal": 5,
+      "promptZh": "有帮助的",
+      "answerEn": "helpful",
+      "itemType": "word",
+      "pronunciation": "/ˈhelpfl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/helpless",
+      "sourceId": "day-018-006",
+      "ordinal": 6,
+      "promptZh": "无助的",
+      "answerEn": "helpless",
+      "itemType": "word",
+      "pronunciation": "/ˈhelpləs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/argue",
+      "sourceId": "day-018-007",
+      "ordinal": 7,
+      "promptZh": "争论;争辩",
+      "answerEn": "argue",
+      "itemType": "word",
+      "pronunciation": "/ˈɑːɡjuː/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/argument",
+      "sourceId": "day-018-008",
+      "ordinal": 8,
+      "promptZh": "争论;争吵",
+      "answerEn": "argument",
+      "itemType": "word",
+      "pronunciation": "/ˈɑːɡjumənt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/argue-with-each-other",
+      "sourceId": "day-018-009",
+      "ordinal": 9,
+      "promptZh": "互相争吵",
+      "answerEn": "argue with each other",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/get-angry",
+      "sourceId": "day-018-010",
+      "ordinal": 10,
+      "promptZh": "生气",
+      "answerEn": "get angry",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/feel-tired",
+      "sourceId": "day-018-011",
+      "ordinal": 11,
+      "promptZh": "感到疲惫",
+      "answerEn": "feel tired",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/after-doing-something",
+      "sourceId": "day-018-012",
+      "ordinal": 12,
+      "promptZh": "在做某事之后",
+      "answerEn": "after doing sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/agree",
+      "sourceId": "day-018-013",
+      "ordinal": 13,
+      "promptZh": "同意",
+      "answerEn": "agree",
+      "itemType": "word",
+      "pronunciation": "/əˈɡriː/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/agreement",
+      "sourceId": "day-018-014",
+      "ordinal": 14,
+      "promptZh": "协议;同意",
+      "answerEn": "agreement",
+      "itemType": "word",
+      "pronunciation": "/əˈɡriːmənt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/let-somebody-do-something",
+      "sourceId": "day-018-015",
+      "ordinal": 15,
+      "promptZh": "让某人做某事",
+      "answerEn": "let sb. do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/meet-difficult-problems",
+      "sourceId": "day-018-016",
+      "ordinal": 16,
+      "promptZh": "遇到难题",
+      "answerEn": "meet difficult problems",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/teach-somebody-to-do-something",
+      "sourceId": "day-018-017",
+      "ordinal": 17,
+      "promptZh": "教某人做某事",
+      "answerEn": "teach sb. to do sth.",
+      "itemType": "sentence-pattern",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/have-nothing-to-do",
+      "sourceId": "day-018-018",
+      "ordinal": 18,
+      "promptZh": "无事可做",
+      "answerEn": "have nothing to do",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/tell-somebody-to-do-something",
+      "sourceId": "day-018-019",
+      "ordinal": 19,
+      "promptZh": "告诉某人做某事",
+      "answerEn": "tell sb. to do sth.",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/make-up-stories",
+      "sourceId": "day-018-020",
+      "ordinal": 20,
+      "promptZh": "编故事",
+      "answerEn": "make up stories",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/enjoy-doing-something",
+      "sourceId": "day-018-021",
+      "ordinal": 21,
+      "promptZh": "喜欢做某事",
+      "answerEn": "enjoy doing sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day18知识点积累.pdf#page=2"
+    }
+  ]
+}

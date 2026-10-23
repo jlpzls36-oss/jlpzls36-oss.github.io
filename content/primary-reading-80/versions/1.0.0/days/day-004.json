@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-004",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/male",
+      "sourceId": "day-004-001",
+      "ordinal": 1,
+      "promptZh": "男性的;雄性的",
+      "answerEn": "male",
+      "itemType": "word",
+      "pronunciation": "/meɪl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/zookeeper",
+      "sourceId": "day-004-002",
+      "ordinal": 2,
+      "promptZh": "动物园管理员",
+      "answerEn": "zookeeper",
+      "itemType": "word",
+      "pronunciation": "/ˈzuːkiːpə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/trust",
+      "sourceId": "day-004-003",
+      "ordinal": 3,
+      "promptZh": "信任 信任;信赖",
+      "answerEn": "trust",
+      "itemType": "word",
+      "pronunciation": "/trʌst/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/trust-somebody-deeply",
+      "sourceId": "day-004-004",
+      "ordinal": 4,
+      "promptZh": "深深信任某人",
+      "answerEn": "trust sb. deeply",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/daily-health-check",
+      "sourceId": "day-004-005",
+      "ordinal": 5,
+      "promptZh": "日常健康检查",
+      "answerEn": "daily health check",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/hole",
+      "sourceId": "day-004-006",
+      "ordinal": 6,
+      "promptZh": "洞;坑",
+      "answerEn": "hole",
+      "itemType": "word",
+      "pronunciation": "/həʊl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/tusk",
+      "sourceId": "day-004-007",
+      "ordinal": 7,
+      "promptZh": "象牙",
+      "answerEn": "tusk",
+      "itemType": "word",
+      "pronunciation": "/tʌsk/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stop-somebody-from-doing-something",
+      "sourceId": "day-004-008",
+      "ordinal": 8,
+      "promptZh": "阻止某人做某事",
+      "answerEn": "stop sb (from) doing sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/ask-somebody-for-help",
+      "sourceId": "day-004-009",
+      "ordinal": 9,
+      "promptZh": "向某人寻求帮助",
+      "answerEn": "ask sb. for help",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/world-famous",
+      "sourceId": "day-004-010",
+      "ordinal": 10,
+      "promptZh": "世界闻名的",
+      "answerEn": "world- famous",
+      "itemType": "word",
+      "pronunciation": "/ˌwɜːld ˈfeɪməs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/experience",
+      "sourceId": "day-004-011",
+      "ordinal": 11,
+      "promptZh": "经历;经验",
+      "answerEn": "experience",
+      "itemType": "word",
+      "pronunciation": "/ɪkˈspɪəriəns/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/carefully",
+      "sourceId": "day-004-012",
+      "ordinal": 12,
+      "promptZh": "仔细地",
+      "answerEn": "carefully",
+      "itemType": "word",
+      "pronunciation": "/ˈkeəfəli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/break",
+      "sourceId": "day-004-013",
+      "ordinal": 13,
+      "promptZh": "打破;弄坏",
+      "answerEn": "break",
+      "itemType": "word",
+      "pronunciation": "/breɪk/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/broken",
+      "sourceId": "day-004-014",
+      "ordinal": 14,
+      "promptZh": "破碎的;损坏的",
+      "answerEn": "broken",
+      "itemType": "word",
+      "pronunciation": "/ˈbrəʊkən/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/special",
+      "sourceId": "day-004-015",
+      "ordinal": 15,
+      "promptZh": "特别的",
+      "answerEn": "special",
+      "itemType": "word",
+      "pronunciation": "/ˈspeʃl/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/thanks-to",
+      "sourceId": "day-004-016",
+      "ordinal": 16,
+      "promptZh": "多亏;由于",
+      "answerEn": "thanks to",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stay-calm",
+      "sourceId": "day-004-017",
+      "ordinal": 17,
+      "promptZh": "保持冷静",
+      "answerEn": "stay calm",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/perfect",
+      "sourceId": "day-004-018",
+      "ordinal": 18,
+      "promptZh": "完美的",
+      "answerEn": "perfect",
+      "itemType": "word",
+      "pronunciation": "/ˈpɜːfɪkt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/entire",
+      "sourceId": "day-004-019",
+      "ordinal": 19,
+      "promptZh": "全部的;整个的",
+      "answerEn": "entire",
+      "itemType": "word",
+      "pronunciation": "/ɪnˈtaɪə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/treatment",
+      "sourceId": "day-004-020",
+      "ordinal": 20,
+      "promptZh": "治疗;对待",
+      "answerEn": "treatment",
+      "itemType": "word",
+      "pronunciation": "/ˈtriːtmənt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/reward",
+      "sourceId": "day-004-021",
+      "ordinal": 21,
+      "promptZh": "奖励;回报",
+      "answerEn": "reward",
+      "itemType": "word",
+      "pronunciation": "/rɪˈwɔːd/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day4知识点积累.pdf#page=2"
+    }
+  ]
+}

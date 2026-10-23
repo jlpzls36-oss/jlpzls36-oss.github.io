@@ -1,11 +1,121 @@
 {
   "schemaVersion": 1,
   "courseId": "primary-reading-80",
-  "contentVersion": "1.0.0-draft.1",
+  "contentVersion": "1.0.0",
+  "sourceOccurrenceCount": 523,
+  "learningTargetCount": 437,
   "publishedDays": {
     "day-001": {
-      "url": "/content/primary-reading-80/versions/1.0.0-draft.1/days/day-001.json",
-      "sha256": "fb622d46c6c57b68dc7966a939fa59a813420e24f9aa0cd8969ce1691cb9f7be"
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-001.json",
+      "sha256": "24216cc985fcb623b3f52f1523d87f5cfa7415c347a96bea40f5ba5f5d7e6d02"
+    },
+    "day-002": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-002.json",
+      "sha256": "574faf488d284b250140a92d7a37186d320775cace4894f935d2a90951c3c930"
+    },
+    "day-003": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-003.json",
+      "sha256": "e4e23336b7d58cd496f10100d1dd15c119d893e4ce71db344a939a970075a34f"
+    },
+    "day-004": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-004.json",
+      "sha256": "f466e5aa6565e8bf978fc0215c35cae847bb8ce69e80c2965dd5fcd2a449239c"
+    },
+    "day-005": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-005.json",
+      "sha256": "eb90a642e57025fae92ad32d55775324f057879d0e5e64c6ae48cc1a7d729f3c"
+    },
+    "day-006": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-006.json",
+      "sha256": "d546b0fce46b4e536d9a12be50dad44e2497c152adad0dc4c46eacce55e41b18"
+    },
+    "day-007": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-007.json",
+      "sha256": "b9754082e3f52d8a2af95182fb3c2a026ae23fecedffb77b40b59354755bdd67"
+    },
+    "day-008": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-008.json",
+      "sha256": "a7b65a61be1bdc6bcaa2c9ca99eeaea2bf3fb3929325a102ad53fb5fe606f949"
+    },
+    "day-009": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-009.json",
+      "sha256": "f4da7cc2626e9e1aba17f47f34d7fa847784119c06bdf58aa3c962b711c59031"
+    },
+    "day-010": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-010.json",
+      "sha256": "a48f90e983c49ff226bfc2c7713c9edea8c57f14e3b4f9adaa268102f7aeca51"
+    },
+    "day-011": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-011.json",
+      "sha256": "43e441fb784c7abf2f12d1516152fa320b22ee134d7a3a3d678643bc20f3aab0"
+    },
+    "day-012": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-012.json",
+      "sha256": "28bc885b14a0c8f35fe5bb6f5665c5cdc0ab5273a53e258c8055638a2849043f"
+    },
+    "day-013": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-013.json",
+      "sha256": "6ad5a47a68a15488f3dd1078d1fa259c721e10dfeda36b78855da47653d7b45e"
+    },
+    "day-014": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-014.json",
+      "sha256": "61eafdfce37681f2e17272b6d445d2c9f8ca48ba1b6a23b30e28e479f8e91a93"
+    },
+    "day-015": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-015.json",
+      "sha256": "99f6ec5f0a46343ad166059d959613742dcd8ffe364a06a532038f2cb3bdea9b"
+    },
+    "day-016": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-016.json",
+      "sha256": "9a256d8f0271ba39b5e10e689b680de8f2ad033c08850e75ae79e82a7800e70a"
+    },
+    "day-017": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-017.json",
+      "sha256": "305139d34ccdd8b30971372a5788f7f3d3fddcbeb79bb436b46180b74c409572"
+    },
+    "day-018": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-018.json",
+      "sha256": "e007776004612b4f1b3e295afacb65b1ad758e561fe31408beb382a80f64f40a"
+    },
+    "day-019": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-019.json",
+      "sha256": "9756692886220279717876cdf350fbe1c3a9b5f8e0a2098c5c8fb73e62544a41"
+    },
+    "day-020": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-020.json",
+      "sha256": "a61f1b6a4a0e9170404f246632ca8f31360e1fb3081b43b41442354b02b0f0e5"
+    },
+    "day-021": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-021.json",
+      "sha256": "7178570ae7aa6074e90dd46aa1eba82fee49266233d2428882d86e3473f6a933"
+    },
+    "day-022": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-022.json",
+      "sha256": "f403973e34cdc045be03bdd415af1b83bda71e0d897726a8cc0363b83e1c86d2"
+    },
+    "day-023": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-023.json",
+      "sha256": "ead728a1cbfcca311d103c55a248b7ca9013c27a571ec59872110d7ee1435de8"
+    },
+    "day-024": {
+      "url": "/content/primary-reading-80/versions/1.0.0/days/day-024.json",
+      "sha256": "dde9ef4f01af18548a383381017ba4794dc37e0374052b7922d7e3be6fa2942c"
     }
+  },
+  "pack": {
+    "url": "/content/primary-reading-80/pack.json",
+    "sha256": "95ccf6a3701a36d94f310b7c8b9cd930a983127b345a0d415e8dfa004dc9a7c8"
+  },
+  "targets": {
+    "url": "/content/primary-reading-80/versions/1.0.0/targets.json",
+    "sha256": "7676f084312984acbaf56373fb45e9c0cbfd4b1b09ad06fc63735345e03653a5"
+  },
+  "sourceOccurrences": {
+    "url": "/content/primary-reading-80/versions/1.0.0/source-occurrences.json",
+    "sha256": "2ca96122bc41f09e9a446d58cfa450ccd60fc64384b4df25fe01d12233e7bb6a"
+  },
+  "reviewLog": {
+    "url": "/content/primary-reading-80/versions/1.0.0/review-log.json",
+    "sha256": "5772e3eff0ab4c4fba8a76487ac4e8e08af9740b49042081753310f47b76ac38"
   }
 }

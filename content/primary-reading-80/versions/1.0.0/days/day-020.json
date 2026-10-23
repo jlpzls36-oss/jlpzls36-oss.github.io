@@ -1,0 +1,257 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-020",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/los-angeles-la",
+      "sourceId": "day-020-001",
+      "ordinal": 1,
+      "promptZh": "洛杉矶",
+      "answerEn": "Los Angeles (缩写:L.A.)",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [
+        "L.A."
+      ],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/good-weather",
+      "sourceId": "day-020-002",
+      "ordinal": 2,
+      "promptZh": "好天气",
+      "answerEn": "good weather",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/sunshine",
+      "sourceId": "day-020-003",
+      "ordinal": 3,
+      "promptZh": "阳光",
+      "answerEn": "sunshine",
+      "itemType": "word",
+      "pronunciation": "/ˈsʌnʃaɪn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/arrive-in",
+      "sourceId": "day-020-004",
+      "ordinal": 4,
+      "promptZh": "到达",
+      "answerEn": "arrive in",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [
+        "arrive at"
+      ],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/drive-drove",
+      "sourceId": "day-020-005",
+      "ordinal": 5,
+      "promptZh": "驾驶",
+      "answerEn": "drive- drove",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/guide",
+      "sourceId": "day-020-006",
+      "ordinal": 6,
+      "promptZh": "导游;指导",
+      "answerEn": "guide",
+      "itemType": "word",
+      "pronunciation": "/ɡaɪd/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/my-favourite-tv-shows",
+      "sourceId": "day-020-007",
+      "ordinal": 7,
+      "promptZh": "我最喜欢的电视节目",
+      "answerEn": "my favourite TV shows",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/beach",
+      "sourceId": "day-020-008",
+      "ordinal": 8,
+      "promptZh": "海滩",
+      "answerEn": "beach",
+      "itemType": "word",
+      "pronunciation": "/biːtʃ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/the-end-of",
+      "sourceId": "day-020-009",
+      "ordinal": 9,
+      "promptZh": "...的末尾/尽头",
+      "answerEn": "the end of",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/half",
+      "sourceId": "day-020-010",
+      "ordinal": 10,
+      "promptZh": "一半 一半的",
+      "answerEn": "half",
+      "itemType": "word",
+      "pronunciation": "/hɑːf/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/hardly",
+      "sourceId": "day-020-011",
+      "ordinal": 11,
+      "promptZh": "几乎不;简直不",
+      "answerEn": "hardly",
+      "itemType": "word",
+      "pronunciation": "/ˈhɑːdli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/pay-for-something",
+      "sourceId": "day-020-012",
+      "ordinal": 12,
+      "promptZh": "为某物付款",
+      "answerEn": "pay for sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/later",
+      "sourceId": "day-020-013",
+      "ordinal": 13,
+      "promptZh": "后来;稍后",
+      "answerEn": "later",
+      "itemType": "word",
+      "pronunciation": "/ˈleɪtə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/popular",
+      "sourceId": "day-020-014",
+      "ordinal": 14,
+      "promptZh": "受欢迎的",
+      "answerEn": "popular",
+      "itemType": "word",
+      "pronunciation": "/ˈpɒpjələ(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/show-somebody-something",
+      "sourceId": "day-020-015",
+      "ordinal": 15,
+      "promptZh": "向某人展示某物",
+      "answerEn": "show sb. sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [
+        "show sth. to sb."
+      ],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/even",
+      "sourceId": "day-020-016",
+      "ordinal": 16,
+      "promptZh": "甚至;即使",
+      "answerEn": "even",
+      "itemType": "word",
+      "pronunciation": "/ˈiːvn/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/say-hello",
+      "sourceId": "day-020-017",
+      "ordinal": 17,
+      "promptZh": "打招呼",
+      "answerEn": "say hello",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/of-course",
+      "sourceId": "day-020-018",
+      "ordinal": 18,
+      "promptZh": "当然",
+      "answerEn": "of course",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/have-to-do-something",
+      "sourceId": "day-020-019",
+      "ordinal": 19,
+      "promptZh": "不得不做某事",
+      "answerEn": "have to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/at-least",
+      "sourceId": "day-020-020",
+      "ordinal": 20,
+      "promptZh": "至少",
+      "answerEn": "at least",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/strange",
+      "sourceId": "day-020-021",
+      "ordinal": 21,
+      "promptZh": "奇怪的",
+      "answerEn": "strange",
+      "itemType": "word",
+      "pronunciation": "/streɪndʒ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stranger",
+      "sourceId": "day-020-022",
+      "ordinal": 22,
+      "promptZh": "陌生人",
+      "answerEn": "stranger",
+      "itemType": "word",
+      "pronunciation": "/ˈstreɪndʒə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day20知识点积累.pdf#page=2"
+    }
+  ]
+}

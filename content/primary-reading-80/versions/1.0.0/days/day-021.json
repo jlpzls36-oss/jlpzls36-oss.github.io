@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "dayId": "day-021",
+  "contentVersion": "1.0.0",
+  "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2",
+  "items": [
+    {
+      "itemId": "primary-reading-80/item/ask-somebody-to-do-something",
+      "sourceId": "day-021-001",
+      "ordinal": 1,
+      "promptZh": "要求某人做某事",
+      "answerEn": "ask sb. to do sth.",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/theatre",
+      "sourceId": "day-021-002",
+      "ordinal": 2,
+      "promptZh": "剧院",
+      "answerEn": "theatre",
+      "itemType": "word",
+      "pronunciation": "/ˈθɪətə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/seat",
+      "sourceId": "day-021-003",
+      "ordinal": 3,
+      "promptZh": "座位",
+      "answerEn": "seat",
+      "itemType": "word",
+      "pronunciation": "/siːt/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/movie",
+      "sourceId": "day-021-004",
+      "ordinal": 4,
+      "promptZh": "电影",
+      "answerEn": "movie",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [
+        "film"
+      ],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/cowboy",
+      "sourceId": "day-021-005",
+      "ordinal": 5,
+      "promptZh": "牛仔",
+      "answerEn": "cowboy",
+      "itemType": "word",
+      "pronunciation": "/ˈkaʊbɔɪ/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/though",
+      "sourceId": "day-021-006",
+      "ordinal": 6,
+      "promptZh": "虽然;尽管",
+      "answerEn": "though",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [
+        "although"
+      ],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/once",
+      "sourceId": "day-021-007",
+      "ordinal": 7,
+      "promptZh": "一次;曾经",
+      "answerEn": "once",
+      "itemType": "word",
+      "pronunciation": "/wʌns/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/twice",
+      "sourceId": "day-021-008",
+      "ordinal": 8,
+      "promptZh": "两次",
+      "answerEn": "twice",
+      "itemType": "word",
+      "pronunciation": "/twaɪs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/dark",
+      "sourceId": "day-021-009",
+      "ordinal": 9,
+      "promptZh": "黑暗的",
+      "answerEn": "dark",
+      "itemType": "word",
+      "pronunciation": "/dɑːk/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/quickly",
+      "sourceId": "day-021-010",
+      "ordinal": 10,
+      "promptZh": "快速地",
+      "answerEn": "quickly",
+      "itemType": "word",
+      "pronunciation": "/ˈkwɪkli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/slowly",
+      "sourceId": "day-021-011",
+      "ordinal": 11,
+      "promptZh": "缓慢地",
+      "answerEn": "slowly",
+      "itemType": "word",
+      "pronunciation": "/ˈsləʊli/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/in-front-of",
+      "sourceId": "day-021-012",
+      "ordinal": 12,
+      "promptZh": "在...的前面",
+      "answerEn": "in front of",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/in-the-front-of",
+      "sourceId": "day-021-013",
+      "ordinal": 13,
+      "promptZh": "在...的前部",
+      "answerEn": "in the front of",
+      "itemType": "word",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/worried",
+      "sourceId": "day-021-014",
+      "ordinal": 14,
+      "promptZh": "担忧的",
+      "answerEn": "worried",
+      "itemType": "word",
+      "pronunciation": "/ˈwʌrid/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/at-home",
+      "sourceId": "day-021-015",
+      "ordinal": 15,
+      "promptZh": "在家",
+      "answerEn": "at home",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/stay-out-late",
+      "sourceId": "day-021-016",
+      "ordinal": 16,
+      "promptZh": "在外面待到很晚",
+      "answerEn": "stay out late",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/take-them-home",
+      "sourceId": "day-021-017",
+      "ordinal": 17,
+      "promptZh": "带他们回家",
+      "answerEn": "take them home",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/happy",
+      "sourceId": "day-021-018",
+      "ordinal": 18,
+      "promptZh": "开心的",
+      "answerEn": "happy",
+      "itemType": "word",
+      "pronunciation": "/ˈhæpi/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/happiness",
+      "sourceId": "day-021-019",
+      "ordinal": 19,
+      "promptZh": "快乐;幸福",
+      "answerEn": "happiness",
+      "itemType": "word",
+      "pronunciation": "/ˈhæpinəs/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/be-happy-to-do-something",
+      "sourceId": "day-021-020",
+      "ordinal": 20,
+      "promptZh": "很高兴做某事",
+      "answerEn": "be happy to do sth.",
+      "itemType": "sentence-pattern",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/at-the-same-time",
+      "sourceId": "day-021-021",
+      "ordinal": 21,
+      "promptZh": "同时",
+      "answerEn": "at the same time",
+      "itemType": "phrase",
+      "pronunciation": "",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/angry",
+      "sourceId": "day-021-022",
+      "ordinal": 22,
+      "promptZh": "生气的",
+      "answerEn": "angry",
+      "itemType": "word",
+      "pronunciation": "/ˈæŋɡri/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    },
+    {
+      "itemId": "primary-reading-80/item/anger",
+      "sourceId": "day-021-023",
+      "ordinal": 23,
+      "promptZh": "愤怒",
+      "answerEn": "anger",
+      "itemType": "word",
+      "pronunciation": "/ˈæŋɡə(r)/",
+      "variants": [],
+      "sourceRef": "小升初80篇阅读Day21知识点积累.pdf#page=2"
+    }
+  ]
+}
