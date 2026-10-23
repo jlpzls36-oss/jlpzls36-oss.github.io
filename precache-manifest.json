@@ -1,0 +1,20 @@
+{
+  "shell": [
+    "./",
+    "404.html",
+    "assets/index-BoUDTLv9.css",
+    "assets/index-By_qNgmh.js",
+    "assets/sqlite3-opfs-async-proxy-D_xnb1D8.js",
+    "assets/sqlite3-worker1-C1FWsFfZ.js",
+    "assets/sqliteWorker.adapter-D7RzUx7D.js",
+    "content/manifest.json",
+    "content/primary-reading-80/pack.json",
+    "content/primary-reading-80/versions/1.0.0-draft.1/days/day-001.json",
+    "icon-192.svg",
+    "icon-512.svg",
+    "manifest.webmanifest"
+  ],
+  "data": [
+    "assets/sqlite3-BVKGSWc-.wasm"
+  ]
+}

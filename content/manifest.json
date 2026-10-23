@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "courseId": "primary-reading-80",
+  "contentVersion": "1.0.0-draft.1",
+  "publishedDays": {
+    "day-001": {
+      "url": "/content/primary-reading-80/versions/1.0.0-draft.1/days/day-001.json",
+      "sha256": "fb622d46c6c57b68dc7966a939fa59a813420e24f9aa0cd8969ce1691cb9f7be"
+    }
+  }
+}
