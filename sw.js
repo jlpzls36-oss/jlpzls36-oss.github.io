@@ -9,7 +9,7 @@
 //   - install で shell 群（起動必須の小資産）を addAll → 初回訪問からオフライン起動可能
 //   - activate 後に data 群（11MB級の大物）を背景で best-effort 先読み（起動はブロックしない）
 // バージョンを上げると activate 時に旧キャッシュを掃除する。
-const VERSION = 'v6'
+const VERSION = 'v7'
 const CACHE_PREFIX = 'primary-english-'
 const SHELL = `${CACHE_PREFIX}shell-${VERSION}`
 const DATA = `${CACHE_PREFIX}data-${VERSION}`
