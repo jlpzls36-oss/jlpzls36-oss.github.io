@@ -1,6 +1,7 @@
 {
   "shell": [
     "./",
+    ".nojekyll",
     "404.html",
     "assets/companion/girl-base.png",
     "assets/companion/girl-teen-base.png",
