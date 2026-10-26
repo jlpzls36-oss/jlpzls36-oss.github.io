@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "currentVersion": "v1",
+  "currentVersion": "v2",
   "subjectId": "english",
   "curriculumId": "yilin-junior-middle",
-  "packPath": "content/v1/english.json",
-  "reviewReportPath": "content/v1/review-report.json",
-  "sourceSha256": "5fb990fa70b34d45a85acbbdf08da255ab46cf7ea07e2b5e56db480c7e9fe57d",
+  "packPath": "content/v2/english.json",
+  "reviewReportPath": "content/v2/review-report.json",
+  "sourceSha256": "9477560a88b4b55610b97e745b007a13e8204028c1d448998820e3b16b7091a5",
   "stats": {
     "books": 6,
     "units": 44,
