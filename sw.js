@@ -9,11 +9,18 @@
 //   - install で shell 群（起動必須の小資産）を addAll → 初回訪問からオフライン起動可能
 //   - activate 後に data 群（11MB級の大物）を背景で best-effort 先読み（起動はブロックしない）
 // バージョンを上げると activate 時に旧キャッシュを掃除する。
-const VERSION = 'v8'
+const VERSION = 'v9'
 const CACHE_PREFIX = 'primary-english-'
 const SHELL = `${CACHE_PREFIX}shell-${VERSION}`
 const DATA = `${CACHE_PREFIX}data-${VERSION}`
 const MANIFEST = './precache-manifest.json'
+const EXCLUDED_APP_PATHS = ['/zhongkao-english', '/zhongkao-english/']
+
+function belongsToAnotherApp(pathname) {
+  return EXCLUDED_APP_PATHS.some(
+    (path) => pathname === path || (path.endsWith('/') && pathname.startsWith(path)),
+  )
+}
 
 self.addEventListener('install', (event) => {
   // shell 群は小さいので install をブロックして先読みする（取得失敗時も install は続行）。
@@ -31,6 +38,9 @@ self.addEventListener('install', (event) => {
       } catch {
         // manifest 取得やプリキャッシュに失敗しても起動を妨げない（従来の SWR で回復）。
       }
+      // v9 is a routing hotfix: activate immediately so the root app stops
+      // intercepting the Zhongkao English app without waiting for a toast click.
+      await self.skipWaiting()
     })(),
   )
 })
@@ -50,6 +60,12 @@ self.addEventListener('activate', (event) => {
           .map((key) => caches.delete(key)),
       )
       await self.clients.claim()
+      const windows = await self.clients.matchAll({ type: 'window' })
+      await Promise.all(
+        windows
+          .filter((client) => belongsToAnotherApp(new URL(client.url).pathname))
+          .map((client) => client.navigate(client.url)),
+      )
     })(),
   )
   // data 群（大物）は重いので activate をブロックせず、浮いた非同期で個別に先読みする。
@@ -95,6 +111,10 @@ self.addEventListener('fetch', (event) => {
   if (req.method !== 'GET') return
   const url = new URL(req.url)
   if (url.origin !== self.location.origin) return // 同一オリジンのみキャッシュ対象
+  // The Zhongkao English PWA owns its own subpath and Service Worker scope.
+  // Let the browser/network handle every request below that path so this
+  // root-scoped PWA can never replace it with the primary-English shell.
+  if (belongsToAnotherApp(url.pathname)) return
 
   // #357: ナビゲーション（deep-link の直アクセス）は cache-first で app-shell を即返し、
   // 背景でネットワーク更新する。SPA なので shell は全ルート共通＝キャッシュ済み shell を
