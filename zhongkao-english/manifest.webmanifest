@@ -1,0 +1,11 @@
+{
+  "name": "星舰学园 · 中考英语",
+  "short_name": "星舰英语",
+  "description": "本地优先的中考英语训练终端",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#050b14",
+  "theme_color": "#07111f"
+}
